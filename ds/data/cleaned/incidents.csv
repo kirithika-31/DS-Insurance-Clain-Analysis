@@ -1,0 +1,3001 @@
+incident_id,incident_type,location,severity
+I00001,Theft,R01,Low
+I00002,Collision,R04,Low
+I00003,Collision,R05,High
+I00004,Theft,R02,Low
+I00005,Collision,R01,Low
+I00006,Collision,R01,Low
+I00007,Flood,R02,Medium
+I00008,Theft,R04,High
+I00009,Collision,R01,Medium
+I00010,Glass Damage,R01,Medium
+I00011,Theft,R01,High
+I00012,Water Damage,R05,Medium
+I00013,Collision,R01,High
+I00014,Theft,R02,Medium
+I00015,Flood,R02,Low
+I00016,Theft,R03,Medium
+I00017,Collision,R01,Low
+I00018,Theft,R01,Low
+I00019,Glass Damage,R05,High
+I00020,Collision,R04,Low
+I00021,Theft,R01,Medium
+I00022,Theft,R04,High
+I00023,Glass Damage,R02,Medium
+I00024,Glass Damage,R01,Low
+I00025,Water Damage,R03,Medium
+I00026,Collision,R01,High
+I00027,Fire,R02,Low
+I00028,Collision,R01,Low
+I00029,Collision,R01,Medium
+I00030,Fire,R03,High
+I00031,Collision,R01,Low
+I00032,Flood,R02,Low
+I00033,Glass Damage,R03,High
+I00034,Collision,R02,Low
+I00035,Water Damage,R01,Low
+I00036,Theft,R05,Medium
+I00037,Collision,R01,Low
+I00038,Flood,R01,Low
+I00039,Collision,R01,Medium
+I00040,Collision,R02,Medium
+I00041,Flood,R02,Medium
+I00042,Fire,R03,Low
+I00043,Flood,R03,Medium
+I00044,Fire,R02,Medium
+I00045,Theft,R05,High
+I00046,Collision,R02,Medium
+I00047,Collision,R03,Medium
+I00048,Water Damage,R01,High
+I00049,Collision,R02,High
+I00050,Water Damage,R01,Low
+I00051,Water Damage,R01,High
+I00052,Glass Damage,R01,High
+I00053,Flood,R03,Low
+I00054,Fire,R04,Low
+I00055,Collision,R01,Medium
+I00056,Water Damage,R01,Medium
+I00057,Flood,R02,Medium
+I00058,Theft,R02,Medium
+I00059,Flood,R03,Low
+I00060,Collision,R01,Low
+I00061,Collision,R03,High
+I00062,Flood,R04,Low
+I00063,Water Damage,R02,Medium
+I00064,Collision,R02,Low
+I00065,Collision,R02,Medium
+I00066,Theft,R01,Medium
+I00067,Collision,R02,Low
+I00068,Collision,R04,Medium
+I00069,Fire,R05,Medium
+I00070,Collision,R02,Low
+I00071,Collision,R03,Low
+I00072,Theft,R02,Medium
+I00073,Glass Damage,R01,Medium
+I00074,Flood,R03,Medium
+I00075,Glass Damage,R01,Medium
+I00076,Fire,R02,Low
+I00077,Fire,R02,Low
+I00078,Theft,R05,Medium
+I00079,Water Damage,R03,Medium
+I00080,Collision,R02,High
+I00081,Collision,R01,Low
+I00082,Water Damage,R01,Medium
+I00083,Glass Damage,R01,Medium
+I00084,Theft,R02,Low
+I00085,Fire,R01,Medium
+I00086,Collision,R03,Medium
+I00087,Collision,R01,Low
+I00088,Collision,R01,Low
+I00089,Water Damage,R04,Low
+I00090,Theft,R02,High
+I00091,Collision,R01,Low
+I00092,Fire,R01,Low
+I00093,Theft,R03,Low
+I00094,Water Damage,R02,Low
+I00095,Theft,R01,Low
+I00096,Theft,R01,Medium
+I00097,Collision,R04,Low
+I00098,Flood,R03,Low
+I00099,Theft,R01,Low
+I00100,Water Damage,R02,Medium
+I00101,Collision,R02,Low
+I00102,Water Damage,R04,Medium
+I00103,Collision,R01,Medium
+I00104,Collision,R01,Medium
+I00105,Collision,R01,Low
+I00106,Collision,R04,High
+I00107,Unknown,R05,Unknown
+I00108,Unknown,R01,Low
+I00109,Water Damage,R01,Medium
+I00110,Collision,R01,Medium
+I00111,Collision,R01,Low
+I00112,Collision,R03,Low
+I00113,Fire,R03,Medium
+I00114,Glass Damage,R03,Low
+I00115,Unknown,R01,High
+I00116,Collision,R01,Low
+I00117,Collision,R04,Low
+I00118,Collision,R01,Low
+I00119,Fire,R03,Low
+I00120,Water Damage,R03,High
+I00121,Theft,R02,High
+I00122,Collision,R01,High
+I00123,Theft,R03,Medium
+I00124,Collision,R04,Medium
+I00125,Glass Damage,R03,Low
+I00126,Collision,R01,Low
+I00127,Collision,R01,High
+I00128,Theft,R01,Unknown
+I00129,Flood,R01,Medium
+I00130,Glass Damage,R05,Medium
+I00131,Fire,R03,Medium
+I00132,Glass Damage,R03,Low
+I00133,Glass Damage,R01,Medium
+I00134,Collision,R01,Medium
+I00135,Flood,R01,High
+I00136,Theft,R02,Low
+I00137,Theft,R01,Low
+I00138,Collision,R01,Medium
+I00139,Collision,R04,High
+I00140,Glass Damage,R01,High
+I00141,Flood,R05,Medium
+I00142,Collision,R02,Low
+I00143,Collision,R05,Low
+I00144,Flood,R01,Medium
+I00145,Collision,R01,Low
+I00146,Glass Damage,R03,Medium
+I00147,Theft,R03,High
+I00148,Collision,R02,Low
+I00149,Water Damage,R02,Low
+I00150,Water Damage,R05,Low
+I00151,Glass Damage,R04,Low
+I00152,Collision,R05,Medium
+I00153,Collision,R01,Low
+I00154,Collision,R04,Low
+I00155,Collision,R01,Low
+I00156,Collision,R03,Low
+I00157,Theft,R05,Medium
+I00158,Flood,R01,Medium
+I00159,Collision,R01,Medium
+I00160,Water Damage,R04,Medium
+I00161,Glass Damage,R01,Unknown
+I00162,Glass Damage,R03,Medium
+I00163,Collision,R01,Low
+I00164,Collision,R03,High
+I00165,Theft,R02,Low
+I00166,Fire,R01,Medium
+I00167,Collision,R02,Low
+I00168,Theft,R02,Medium
+I00169,Water Damage,R03,Low
+I00170,Theft,R02,High
+I00171,Theft,R01,Low
+I00172,Theft,R03,High
+I00173,Fire,R04,Medium
+I00174,Collision,R04,Low
+I00175,Collision,R01,Low
+I00176,Fire,R02,Low
+I00177,Glass Damage,R01,High
+I00178,Glass Damage,R03,High
+I00179,Theft,R02,Low
+I00180,Collision,R02,Low
+I00181,Collision,R02,Low
+I00182,Water Damage,R01,Low
+I00183,Collision,R02,Medium
+I00184,Collision,R01,Low
+I00185,Fire,R01,Low
+I00186,Glass Damage,R03,High
+I00187,Collision,R03,Medium
+I00188,Flood,R05,Medium
+I00189,Glass Damage,R03,Low
+I00190,Theft,R04,High
+I00191,Collision,R01,Unknown
+I00192,Flood,R03,Medium
+I00193,Glass Damage,R01,Low
+I00194,Collision,R01,High
+I00195,Flood,R02,Medium
+I00196,Collision,R02,High
+I00197,Theft,R03,Medium
+I00198,Glass Damage,R02,Medium
+I00199,Collision,R03,Medium
+I00200,Collision,R04,High
+I00201,Collision,R02,Low
+I00202,Fire,R03,Low
+I00203,Fire,R02,Medium
+I00204,Water Damage,R01,Medium
+I00205,Collision,R05,Medium
+I00206,Collision,R03,Unknown
+I00207,Water Damage,R03,Medium
+I00208,Collision,R01,Medium
+I00209,Collision,R01,Low
+I00210,Collision,R01,High
+I00211,Theft,R04,Low
+I00212,Fire,R01,Medium
+I00213,Collision,R03,High
+I00214,Glass Damage,R01,Low
+I00215,Fire,R01,Low
+I00216,Glass Damage,R03,Low
+I00217,Collision,R03,Medium
+I00218,Water Damage,R03,Medium
+I00219,Collision,R02,Low
+I00220,Collision,R02,High
+I00221,Collision,R01,Low
+I00222,Glass Damage,R02,Medium
+I00223,Theft,R04,Medium
+I00224,Collision,R04,Low
+I00225,Glass Damage,R02,Low
+I00226,Collision,R02,High
+I00227,Fire,R01,Medium
+I00228,Collision,R03,Low
+I00229,Flood,R04,Medium
+I00230,Flood,R02,Medium
+I00231,Flood,R02,Low
+I00232,Glass Damage,R01,Medium
+I00233,Collision,R01,Medium
+I00234,Theft,R05,Low
+I00235,Fire,R03,High
+I00236,Collision,R02,Low
+I00237,Glass Damage,R01,Low
+I00238,Theft,R03,Low
+I00239,Collision,R04,Medium
+I00240,Collision,R05,Medium
+I00241,Water Damage,R01,High
+I00242,Collision,R01,Low
+I00243,Collision,R02,Medium
+I00244,Glass Damage,R04,Medium
+I00245,Collision,R02,Low
+I00246,Collision,R02,Low
+I00247,Collision,R02,High
+I00248,Collision,R01,Low
+I00249,Collision,R03,Medium
+I00250,Collision,R05,Medium
+I00251,Collision,R01,Low
+I00252,Collision,R02,High
+I00253,Collision,R01,High
+I00254,Glass Damage,R01,Medium
+I00255,Collision,R04,Medium
+I00256,Collision,R01,Medium
+I00257,Collision,R03,Medium
+I00258,Theft,R05,Low
+I00259,Collision,R01,Medium
+I00260,Collision,R01,Low
+I00261,Theft,R01,Medium
+I00262,Water Damage,R02,Medium
+I00263,Collision,R05,Low
+I00264,Water Damage,R01,High
+I00265,Water Damage,R03,Low
+I00266,Glass Damage,R04,Low
+I00267,Glass Damage,R05,Low
+I00268,Collision,R01,Medium
+I00269,Collision,R04,Low
+I00270,Fire,R01,Medium
+I00271,Water Damage,R01,Medium
+I00272,Theft,R05,Low
+I00273,Glass Damage,R01,High
+I00274,Glass Damage,R04,Low
+I00275,Collision,R03,Medium
+I00276,Glass Damage,R01,Low
+I00277,Collision,R02,Medium
+I00278,Glass Damage,R02,High
+I00279,Collision,R01,Low
+I00280,Collision,R02,Low
+I00281,Collision,R02,Low
+I00282,Collision,R02,Low
+I00283,Water Damage,R03,High
+I00284,Collision,R03,Medium
+I00285,Collision,R03,Medium
+I00286,Collision,R05,High
+I00287,Collision,R01,High
+I00288,Glass Damage,R03,High
+I00289,Water Damage,R03,Low
+I00290,Collision,R02,Low
+I00291,Flood,R01,Low
+I00292,Fire,R04,Low
+I00293,Theft,R03,Low
+I00294,Collision,R03,Low
+I00295,Collision,R04,Low
+I00296,Collision,R01,Medium
+I00297,Collision,R02,Low
+I00298,Collision,R02,Low
+I00299,Collision,R01,Low
+I00300,Fire,R03,Medium
+I00301,Theft,R04,Medium
+I00302,Fire,R02,Medium
+I00303,Water Damage,R01,Low
+I00304,Unknown,R04,Low
+I00305,Glass Damage,R03,Low
+I00306,Collision,R04,Low
+I00307,Collision,R03,Low
+I00308,Flood,R01,High
+I00309,Theft,R02,Low
+I00310,Collision,R01,Low
+I00311,Collision,R01,Medium
+I00312,Water Damage,R03,Medium
+I00313,Collision,R01,Low
+I00314,Water Damage,R03,Low
+I00315,Flood,R01,High
+I00316,Collision,R04,Low
+I00317,Collision,R02,Medium
+I00318,Glass Damage,R01,Medium
+I00319,Collision,R01,Low
+I00320,Collision,R05,Medium
+I00321,Collision,R01,Low
+I00322,Theft,R01,Low
+I00323,Fire,R03,Low
+I00324,Collision,R01,High
+I00325,Collision,R01,Unknown
+I00326,Theft,R04,Low
+I00327,Glass Damage,R01,High
+I00328,Collision,R02,Low
+I00329,Water Damage,R03,High
+I00330,Glass Damage,R04,Medium
+I00331,Collision,R03,Medium
+I00332,Collision,R02,Medium
+I00333,Collision,R02,Medium
+I00334,Collision,R01,Low
+I00335,Collision,R01,High
+I00336,Collision,R01,High
+I00337,Theft,R05,High
+I00338,Collision,R03,Medium
+I00339,Glass Damage,R02,Medium
+I00340,Collision,R04,Medium
+I00341,Fire,R01,Low
+I00342,Glass Damage,R03,Medium
+I00343,Flood,R04,Medium
+I00344,Glass Damage,R02,Medium
+I00345,Theft,R05,Low
+I00346,Theft,R05,Medium
+I00347,Collision,R03,Medium
+I00348,Water Damage,R01,Unknown
+I00349,Fire,R01,High
+I00350,Collision,R01,Medium
+I00351,Water Damage,R02,Low
+I00352,Collision,R03,Low
+I00353,Collision,R05,Medium
+I00354,Glass Damage,R03,Medium
+I00355,Glass Damage,R02,High
+I00356,Fire,R01,Low
+I00357,Water Damage,R03,Low
+I00358,Water Damage,R02,Low
+I00359,Water Damage,R01,Medium
+I00360,Water Damage,R03,High
+I00361,Water Damage,R03,High
+I00362,Fire,R03,Medium
+I00363,Collision,R04,High
+I00364,Theft,R01,Low
+I00365,Theft,R01,Medium
+I00366,Collision,R02,High
+I00367,Collision,R03,Low
+I00368,Collision,R02,High
+I00369,Flood,R04,Low
+I00370,Fire,R01,Low
+I00371,Collision,R01,Medium
+I00372,Fire,R04,High
+I00373,Theft,R01,Low
+I00374,Glass Damage,R01,High
+I00375,Collision,R01,Low
+I00376,Theft,R04,Medium
+I00377,Theft,R05,Unknown
+I00378,Flood,R04,Low
+I00379,Collision,R02,Medium
+I00380,Theft,R01,Medium
+I00381,Collision,R04,Medium
+I00382,Collision,R05,Low
+I00383,Water Damage,R01,Low
+I00384,Fire,R02,High
+I00385,Flood,R01,Medium
+I00386,Glass Damage,R04,High
+I00387,Collision,R02,Medium
+I00388,Collision,R02,High
+I00389,Water Damage,R04,Low
+I00390,Collision,R03,Medium
+I00391,Water Damage,R01,Medium
+I00392,Water Damage,R02,Low
+I00393,Collision,R02,Low
+I00394,Collision,R04,Medium
+I00395,Theft,R03,High
+I00396,Collision,R01,Medium
+I00397,Collision,R01,Low
+I00398,Collision,R01,High
+I00399,Flood,R01,Low
+I00400,Collision,R02,Low
+I00401,Flood,R02,High
+I00402,Collision,R02,Medium
+I00403,Collision,R03,High
+I00404,Glass Damage,R02,High
+I00405,Flood,R01,Medium
+I00406,Glass Damage,R05,Low
+I00407,Flood,R01,Low
+I00408,Fire,R01,High
+I00409,Theft,R01,High
+I00410,Collision,R03,Low
+I00411,Theft,R01,Low
+I00412,Flood,R01,Low
+I00413,Collision,R03,Low
+I00414,Collision,R01,High
+I00415,Flood,R01,Low
+I00416,Fire,R05,Medium
+I00417,Collision,R05,High
+I00418,Glass Damage,R03,Medium
+I00419,Flood,R01,Medium
+I00420,Theft,R01,Low
+I00421,Collision,R03,Low
+I00422,Glass Damage,R03,Low
+I00423,Theft,R05,Low
+I00424,Water Damage,R02,Unknown
+I00425,Collision,R01,Low
+I00426,Collision,R01,Low
+I00427,Theft,R02,Low
+I00428,Collision,R02,High
+I00429,Fire,R01,Low
+I00430,Flood,R02,Low
+I00431,Theft,R02,High
+I00432,Collision,R03,Low
+I00433,Collision,R03,Medium
+I00434,Collision,R01,High
+I00435,Theft,R02,Medium
+I00436,Glass Damage,R02,Low
+I00437,Unknown,R02,Medium
+I00438,Water Damage,R01,Medium
+I00439,Theft,R03,Low
+I00440,Collision,R05,Low
+I00441,Theft,R04,Low
+I00442,Collision,R03,High
+I00443,Collision,R03,Low
+I00444,Theft,R01,Low
+I00445,Theft,R02,Medium
+I00446,Collision,R02,High
+I00447,Fire,R04,Low
+I00448,Theft,R01,Low
+I00449,Collision,R02,Medium
+I00450,Collision,R01,Medium
+I00451,Collision,R03,Medium
+I00452,Collision,R02,High
+I00453,Water Damage,R04,Unknown
+I00454,Collision,R02,Low
+I00455,Collision,R01,Low
+I00456,Fire,R01,Low
+I00457,Collision,R04,Medium
+I00458,Fire,R02,Medium
+I00459,Theft,R01,Low
+I00460,Theft,R03,Medium
+I00461,Water Damage,R02,Low
+I00462,Flood,R03,Medium
+I00463,Collision,R02,Low
+I00464,Unknown,R02,Medium
+I00465,Water Damage,R05,Low
+I00466,Collision,R02,High
+I00467,Collision,R04,Unknown
+I00468,Collision,R04,High
+I00469,Collision,R01,High
+I00470,Glass Damage,R04,Low
+I00471,Collision,R04,Medium
+I00472,Glass Damage,R04,Low
+I00473,Collision,R02,High
+I00474,Collision,R04,Low
+I00475,Glass Damage,R01,Low
+I00476,Collision,R03,Medium
+I00477,Theft,R01,Low
+I00478,Glass Damage,R03,Medium
+I00479,Collision,R01,Low
+I00480,Water Damage,R03,Medium
+I00481,Fire,R02,High
+I00482,Flood,R03,Medium
+I00483,Unknown,R03,Low
+I00484,Collision,R04,Low
+I00485,Flood,R01,Low
+I00486,Collision,R04,Low
+I00487,Glass Damage,R05,Medium
+I00488,Theft,R01,Low
+I00489,Collision,R03,Low
+I00490,Collision,R04,Low
+I00491,Theft,R03,High
+I00492,Glass Damage,R02,Low
+I00493,Collision,R04,Low
+I00494,Flood,R02,Medium
+I00495,Glass Damage,R01,Low
+I00496,Fire,R02,High
+I00497,Glass Damage,R01,Low
+I00498,Glass Damage,R01,Medium
+I00499,Fire,R04,Medium
+I00500,Collision,R03,High
+I00501,Fire,R01,Medium
+I00502,Collision,R02,Medium
+I00503,Collision,R04,Medium
+I00504,Glass Damage,R05,Medium
+I00505,Collision,R02,Medium
+I00506,Theft,R01,Medium
+I00507,Glass Damage,R03,Medium
+I00508,Glass Damage,R01,Low
+I00509,Fire,R02,Low
+I00510,Glass Damage,R05,Low
+I00511,Flood,R01,Low
+I00512,Collision,R02,Medium
+I00513,Collision,R05,Low
+I00514,Fire,R02,Medium
+I00515,Glass Damage,R01,Medium
+I00516,Fire,R04,Medium
+I00517,Flood,R02,Medium
+I00518,Collision,R03,Low
+I00519,Collision,R03,Low
+I00520,Collision,R02,Medium
+I00521,Water Damage,R01,High
+I00522,Collision,R01,Medium
+I00523,Glass Damage,R02,Medium
+I00524,Collision,R01,Medium
+I00525,Theft,R01,Medium
+I00526,Collision,R01,Medium
+I00527,Collision,R02,Medium
+I00528,Collision,R03,Low
+I00529,Flood,R01,Low
+I00530,Glass Damage,R02,Low
+I00531,Theft,R03,Medium
+I00532,Fire,R04,Medium
+I00533,Collision,R04,Low
+I00534,Glass Damage,R01,Low
+I00535,Glass Damage,R01,Medium
+I00536,Theft,R01,Low
+I00537,Theft,R04,High
+I00538,Glass Damage,R01,Low
+I00539,Flood,R05,Low
+I00540,Collision,R01,Medium
+I00541,Theft,R05,Low
+I00542,Flood,R01,Low
+I00543,Flood,R01,Low
+I00544,Collision,R02,Low
+I00545,Fire,R02,Low
+I00546,Glass Damage,R01,Medium
+I00547,Collision,R01,Low
+I00548,Water Damage,R03,Low
+I00549,Collision,R03,Low
+I00550,Flood,R01,High
+I00551,Water Damage,R01,Medium
+I00552,Fire,R02,High
+I00553,Unknown,R03,High
+I00554,Water Damage,R01,Low
+I00555,Collision,R02,Medium
+I00556,Unknown,R03,Low
+I00557,Glass Damage,R05,High
+I00558,Theft,R01,Medium
+I00559,Theft,R04,Low
+I00560,Theft,R03,High
+I00561,Collision,R02,High
+I00562,Collision,R03,High
+I00563,Water Damage,R01,Low
+I00564,Collision,R01,Low
+I00565,Water Damage,R02,Low
+I00566,Theft,R01,Medium
+I00567,Theft,R01,Medium
+I00568,Water Damage,R03,Low
+I00569,Water Damage,R03,Medium
+I00570,Collision,R02,Low
+I00571,Fire,R03,Medium
+I00572,Collision,R01,High
+I00573,Collision,R02,Medium
+I00574,Collision,R03,Low
+I00575,Collision,R02,Low
+I00576,Water Damage,R01,Low
+I00577,Glass Damage,R05,Medium
+I00578,Glass Damage,R04,Medium
+I00579,Collision,R03,Low
+I00580,Glass Damage,R01,High
+I00581,Collision,R04,Medium
+I00582,Theft,R01,High
+I00583,Water Damage,R04,Medium
+I00584,Water Damage,R03,High
+I00585,Collision,R01,Low
+I00586,Collision,R04,Low
+I00587,Collision,R02,High
+I00588,Collision,R05,High
+I00589,Glass Damage,R03,Medium
+I00590,Collision,R05,Low
+I00591,Collision,R01,Low
+I00592,Collision,R03,Medium
+I00593,Glass Damage,R01,High
+I00594,Fire,R05,Low
+I00595,Theft,R01,Low
+I00596,Theft,R04,Medium
+I00597,Fire,R01,Medium
+I00598,Collision,R02,Medium
+I00599,Flood,R01,Medium
+I00600,Collision,R05,High
+I00601,Collision,R04,Low
+I00602,Theft,R02,Medium
+I00603,Theft,R05,Medium
+I00604,Collision,R01,Medium
+I00605,Collision,R05,High
+I00606,Fire,R02,Medium
+I00607,Water Damage,R02,Medium
+I00608,Fire,R01,Low
+I00609,Collision,R03,Medium
+I00610,Theft,R01,Low
+I00611,Theft,R04,Low
+I00612,Water Damage,R05,Medium
+I00613,Collision,R04,Medium
+I00614,Collision,R02,High
+I00615,Water Damage,R03,Medium
+I00616,Collision,R02,High
+I00617,Glass Damage,R01,Low
+I00618,Water Damage,R02,Medium
+I00619,Glass Damage,R01,High
+I00620,Collision,R01,Medium
+I00621,Collision,R03,High
+I00622,Theft,R03,Unknown
+I00623,Collision,R02,Low
+I00624,Theft,R02,Medium
+I00625,Flood,R02,Low
+I00626,Collision,R01,Low
+I00627,Collision,R04,Low
+I00628,Collision,R01,Low
+I00629,Glass Damage,R02,Low
+I00630,Collision,R02,High
+I00631,Flood,R02,Low
+I00632,Collision,R01,High
+I00633,Flood,R01,Medium
+I00634,Collision,R02,Low
+I00635,Glass Damage,R01,Low
+I00636,Glass Damage,R03,High
+I00637,Glass Damage,R02,Medium
+I00638,Flood,R03,High
+I00639,Theft,R02,Low
+I00640,Water Damage,R03,Medium
+I00641,Flood,R02,Medium
+I00642,Glass Damage,R01,High
+I00643,Collision,R05,Low
+I00644,Glass Damage,R03,High
+I00645,Collision,R05,Low
+I00646,Theft,R01,High
+I00647,Collision,R02,Medium
+I00648,Collision,R03,Medium
+I00649,Flood,R03,Low
+I00650,Fire,R02,High
+I00651,Collision,R04,Low
+I00652,Fire,R02,Medium
+I00653,Collision,R04,Medium
+I00654,Collision,R01,Medium
+I00655,Flood,R02,Medium
+I00656,Collision,R01,Medium
+I00657,Collision,R05,Medium
+I00658,Glass Damage,R01,Medium
+I00659,Collision,R03,Medium
+I00660,Collision,R04,Medium
+I00661,Fire,R02,High
+I00662,Water Damage,R01,Medium
+I00663,Collision,R03,Low
+I00664,Collision,R04,Medium
+I00665,Theft,R04,Low
+I00666,Fire,R01,Low
+I00667,Collision,R03,Medium
+I00668,Collision,R03,Medium
+I00669,Collision,R02,Medium
+I00670,Flood,R03,High
+I00671,Collision,R03,Low
+I00672,Flood,R04,Low
+I00673,Theft,R04,Low
+I00674,Collision,R02,Low
+I00675,Flood,R02,Medium
+I00676,Water Damage,R01,Medium
+I00677,Collision,R01,Medium
+I00678,Fire,R04,Low
+I00679,Collision,R02,Medium
+I00680,Collision,R05,Low
+I00681,Collision,R02,Medium
+I00682,Unknown,R03,Medium
+I00683,Fire,R03,Low
+I00684,Theft,R02,High
+I00685,Collision,R02,Medium
+I00686,Collision,R02,Low
+I00687,Glass Damage,R05,Medium
+I00688,Fire,R01,Medium
+I00689,Collision,R01,Low
+I00690,Fire,R03,Low
+I00691,Water Damage,R05,Medium
+I00692,Collision,R01,High
+I00693,Water Damage,R02,Medium
+I00694,Water Damage,R02,Medium
+I00695,Collision,R01,Medium
+I00696,Fire,R02,Medium
+I00697,Theft,R01,Low
+I00698,Collision,R02,Low
+I00699,Theft,R03,High
+I00700,Collision,R01,High
+I00701,Fire,R03,High
+I00702,Collision,R01,Low
+I00703,Flood,R03,Medium
+I00704,Glass Damage,R01,Medium
+I00705,Flood,R05,Low
+I00706,Flood,R01,Low
+I00707,Theft,R01,Medium
+I00708,Collision,R04,Medium
+I00709,Collision,R05,Medium
+I00710,Fire,R02,Low
+I00711,Flood,R01,Medium
+I00712,Flood,R02,Low
+I00713,Collision,R02,Low
+I00714,Theft,R02,Medium
+I00715,Glass Damage,R01,Low
+I00716,Theft,R05,High
+I00717,Collision,R01,Medium
+I00718,Flood,R01,Low
+I00719,Collision,R02,Low
+I00720,Water Damage,R01,Medium
+I00721,Collision,R01,Low
+I00722,Flood,R03,Low
+I00723,Theft,R02,Medium
+I00724,Flood,R01,Low
+I00725,Collision,R02,Medium
+I00726,Water Damage,R02,Medium
+I00727,Glass Damage,R02,Low
+I00728,Flood,R02,Medium
+I00729,Water Damage,R04,Medium
+I00730,Collision,R01,Medium
+I00731,Fire,R03,Low
+I00732,Collision,R02,Medium
+I00733,Water Damage,R01,Low
+I00734,Flood,R04,Medium
+I00735,Collision,R01,Low
+I00736,Fire,R04,High
+I00737,Collision,R01,Low
+I00738,Collision,R01,High
+I00739,Water Damage,R01,High
+I00740,Collision,R02,Medium
+I00741,Collision,R02,Low
+I00742,Theft,R03,Low
+I00743,Collision,R04,High
+I00744,Water Damage,R01,Medium
+I00745,Theft,R01,Medium
+I00746,Collision,R01,Low
+I00747,Glass Damage,R02,High
+I00748,Theft,R02,Low
+I00749,Collision,R01,Low
+I00750,Fire,R02,Low
+I00751,Collision,R01,Medium
+I00752,Glass Damage,R01,High
+I00753,Theft,R02,Medium
+I00754,Collision,R05,Low
+I00755,Collision,R02,Low
+I00756,Glass Damage,R03,Medium
+I00757,Collision,R02,Medium
+I00758,Theft,R04,Unknown
+I00759,Theft,R04,Low
+I00760,Collision,R01,Medium
+I00761,Fire,R01,High
+I00762,Collision,R04,Medium
+I00763,Water Damage,R02,Low
+I00764,Collision,R01,Medium
+I00765,Unknown,R03,Low
+I00766,Glass Damage,R03,High
+I00767,Theft,R03,Low
+I00768,Glass Damage,R02,Unknown
+I00769,Collision,R05,Medium
+I00770,Collision,R01,Low
+I00771,Flood,R01,Low
+I00772,Collision,R01,Medium
+I00773,Collision,R04,Medium
+I00774,Collision,R01,High
+I00775,Theft,R05,Low
+I00776,Theft,R01,Low
+I00777,Collision,R05,Medium
+I00778,Glass Damage,R01,Medium
+I00779,Collision,R04,Low
+I00780,Water Damage,R01,High
+I00781,Collision,R03,High
+I00782,Collision,R05,Low
+I00783,Theft,R01,Medium
+I00784,Collision,R04,Medium
+I00785,Water Damage,R02,Low
+I00786,Collision,R01,Medium
+I00787,Theft,R05,Low
+I00788,Theft,R02,Low
+I00789,Collision,R03,High
+I00790,Flood,R04,Medium
+I00791,Fire,R01,Low
+I00792,Collision,R01,Medium
+I00793,Collision,R04,High
+I00794,Collision,R02,Medium
+I00795,Theft,R04,High
+I00796,Collision,R01,High
+I00797,Collision,R02,Low
+I00798,Collision,R05,Medium
+I00799,Collision,R01,Medium
+I00800,Theft,R03,Medium
+I00801,Glass Damage,R04,Low
+I00802,Water Damage,R01,Low
+I00803,Collision,R02,Low
+I00804,Theft,R04,Medium
+I00805,Collision,R01,Medium
+I00806,Collision,R02,Medium
+I00807,Collision,R01,Medium
+I00808,Glass Damage,R01,Low
+I00809,Collision,R03,Low
+I00810,Theft,R02,Medium
+I00811,Collision,R01,Medium
+I00812,Theft,R02,Medium
+I00813,Collision,R01,Low
+I00814,Glass Damage,R05,Medium
+I00815,Theft,R01,High
+I00816,Collision,R01,Low
+I00817,Theft,R03,Low
+I00818,Flood,R01,Medium
+I00819,Collision,R04,Medium
+I00820,Flood,R01,High
+I00821,Collision,R01,High
+I00822,Theft,R04,Medium
+I00823,Flood,R02,Low
+I00824,Collision,R01,Medium
+I00825,Glass Damage,R03,High
+I00826,Collision,R01,Medium
+I00827,Water Damage,R05,High
+I00828,Water Damage,R02,Medium
+I00829,Fire,R05,Low
+I00830,Collision,R01,Medium
+I00831,Water Damage,R02,Medium
+I00832,Collision,R02,Low
+I00833,Fire,R01,Low
+I00834,Fire,R01,Medium
+I00835,Collision,R04,Low
+I00836,Collision,R02,Low
+I00837,Theft,R04,Medium
+I00838,Flood,R02,Medium
+I00839,Collision,R01,Medium
+I00840,Water Damage,R02,High
+I00841,Collision,R02,High
+I00842,Collision,R03,Medium
+I00843,Collision,R02,Low
+I00844,Water Damage,R04,Medium
+I00845,Theft,R01,Low
+I00846,Fire,R04,High
+I00847,Collision,R01,Unknown
+I00848,Glass Damage,R02,Low
+I00849,Theft,R01,Medium
+I00850,Fire,R01,Medium
+I00851,Theft,R01,High
+I00852,Collision,R02,Low
+I00853,Collision,R04,High
+I00854,Water Damage,R05,Low
+I00855,Theft,R01,Medium
+I00856,Collision,R03,High
+I00857,Collision,R02,Low
+I00858,Collision,R01,Low
+I00859,Collision,R01,High
+I00860,Flood,R03,High
+I00861,Theft,R01,Low
+I00862,Collision,R04,Medium
+I00863,Collision,R03,High
+I00864,Water Damage,R05,Low
+I00865,Fire,R03,Medium
+I00866,Collision,R01,Medium
+I00867,Collision,R02,Low
+I00868,Water Damage,R02,High
+I00869,Theft,R05,Low
+I00870,Fire,R02,High
+I00871,Theft,R02,Medium
+I00872,Glass Damage,R04,Medium
+I00873,Glass Damage,R01,Medium
+I00874,Collision,R01,Medium
+I00875,Collision,R05,High
+I00876,Fire,R04,Medium
+I00877,Fire,R02,Medium
+I00878,Water Damage,R03,Medium
+I00879,Collision,R01,Low
+I00880,Collision,R01,Low
+I00881,Collision,R01,Unknown
+I00882,Water Damage,R03,Medium
+I00883,Collision,R02,Medium
+I00884,Theft,R04,Medium
+I00885,Theft,R03,Medium
+I00886,Collision,R01,Medium
+I00887,Glass Damage,R03,Medium
+I00888,Flood,R02,High
+I00889,Collision,R01,Low
+I00890,Collision,R02,Medium
+I00891,Fire,R02,Low
+I00892,Theft,R03,High
+I00893,Collision,R01,Medium
+I00894,Fire,R03,Medium
+I00895,Glass Damage,R02,High
+I00896,Collision,R03,Medium
+I00897,Collision,R02,Low
+I00898,Theft,R02,Medium
+I00899,Glass Damage,R03,Low
+I00900,Theft,R01,High
+I00901,Glass Damage,R04,Medium
+I00902,Collision,R02,Medium
+I00903,Theft,R02,High
+I00904,Fire,R01,Medium
+I00905,Glass Damage,R01,Medium
+I00906,Fire,R01,Low
+I00907,Collision,R02,Low
+I00908,Glass Damage,R03,High
+I00909,Flood,R01,High
+I00910,Fire,R01,Medium
+I00911,Collision,R05,Low
+I00912,Glass Damage,R02,Low
+I00913,Glass Damage,R03,High
+I00914,Glass Damage,R01,Low
+I00915,Glass Damage,R03,Medium
+I00916,Collision,R04,Low
+I00917,Glass Damage,R01,Low
+I00918,Collision,R04,Medium
+I00919,Theft,R05,High
+I00920,Fire,R02,Medium
+I00921,Collision,R02,Medium
+I00922,Theft,R03,Medium
+I00923,Collision,R02,High
+I00924,Fire,R04,Medium
+I00925,Collision,R04,Medium
+I00926,Water Damage,R02,Medium
+I00927,Collision,R03,Low
+I00928,Water Damage,R02,Low
+I00929,Collision,R05,High
+I00930,Flood,R05,Medium
+I00931,Fire,R02,Low
+I00932,Collision,R02,Low
+I00933,Water Damage,R01,High
+I00934,Collision,R01,Medium
+I00935,Water Damage,R01,Medium
+I00936,Fire,R01,Low
+I00937,Water Damage,R01,High
+I00938,Theft,R05,High
+I00939,Collision,R01,Medium
+I00940,Fire,R01,Low
+I00941,Fire,R02,Medium
+I00942,Collision,R02,High
+I00943,Unknown,R01,Medium
+I00944,Theft,R04,High
+I00945,Collision,R02,Medium
+I00946,Collision,R04,Low
+I00947,Theft,R05,Medium
+I00948,Collision,R04,High
+I00949,Collision,R04,Low
+I00950,Collision,R01,Low
+I00951,Glass Damage,R04,Medium
+I00952,Collision,R05,Medium
+I00953,Collision,R02,High
+I00954,Fire,R01,Low
+I00955,Glass Damage,R01,Low
+I00956,Water Damage,R03,Low
+I00957,Theft,R01,Medium
+I00958,Flood,R03,Medium
+I00959,Glass Damage,R03,Medium
+I00960,Collision,R04,Medium
+I00961,Glass Damage,R02,Low
+I00962,Theft,R04,Medium
+I00963,Collision,R01,High
+I00964,Collision,R01,Medium
+I00965,Collision,R01,Low
+I00966,Glass Damage,R01,Medium
+I00967,Water Damage,R02,Low
+I00968,Collision,R01,Low
+I00969,Fire,R01,Low
+I00970,Fire,R02,Low
+I00971,Theft,R01,Low
+I00972,Collision,R05,Medium
+I00973,Water Damage,R04,Low
+I00974,Theft,R02,Medium
+I00975,Collision,R04,High
+I00976,Glass Damage,R04,Medium
+I00977,Collision,R04,Medium
+I00978,Collision,R04,Medium
+I00979,Flood,R01,Low
+I00980,Collision,R02,Medium
+I00981,Flood,R05,Medium
+I00982,Collision,R02,High
+I00983,Collision,R01,High
+I00984,Theft,R01,High
+I00985,Glass Damage,R01,Medium
+I00986,Glass Damage,R05,Medium
+I00987,Glass Damage,R01,High
+I00988,Glass Damage,R01,High
+I00989,Collision,R03,Medium
+I00990,Collision,R01,High
+I00991,Glass Damage,R01,High
+I00992,Glass Damage,R01,Medium
+I00993,Glass Damage,R01,Low
+I00994,Theft,R01,Low
+I00995,Collision,R03,Medium
+I00996,Glass Damage,R05,Low
+I00997,Glass Damage,R02,Medium
+I00998,Theft,R01,Medium
+I00999,Flood,R03,High
+I01000,Water Damage,R01,High
+I01001,Collision,R03,Medium
+I01002,Glass Damage,R01,Medium
+I01003,Collision,R03,Low
+I01004,Glass Damage,R03,Medium
+I01005,Collision,R01,Low
+I01006,Fire,R04,Medium
+I01007,Unknown,R05,High
+I01008,Collision,R04,Medium
+I01009,Unknown,R04,Medium
+I01010,Flood,R03,Medium
+I01011,Glass Damage,R03,High
+I01012,Collision,R01,Medium
+I01013,Glass Damage,R01,Medium
+I01014,Collision,R01,Low
+I01015,Collision,R01,Medium
+I01016,Theft,R01,Low
+I01017,Theft,R01,Medium
+I01018,Collision,R01,Medium
+I01019,Theft,R04,Low
+I01020,Glass Damage,R01,Medium
+I01021,Collision,R01,Low
+I01022,Glass Damage,R01,Unknown
+I01023,Theft,R01,Low
+I01024,Theft,R04,Low
+I01025,Collision,R01,High
+I01026,Collision,R03,High
+I01027,Flood,R01,Medium
+I01028,Theft,R04,Medium
+I01029,Theft,R01,Medium
+I01030,Fire,R01,High
+I01031,Collision,R03,Medium
+I01032,Theft,R04,Low
+I01033,Flood,R02,Medium
+I01034,Collision,R04,High
+I01035,Fire,R04,Low
+I01036,Fire,R01,Medium
+I01037,Collision,R02,Low
+I01038,Water Damage,R01,Low
+I01039,Collision,R01,Medium
+I01040,Water Damage,R01,Low
+I01041,Collision,R01,High
+I01042,Theft,R01,Medium
+I01043,Glass Damage,R02,Low
+I01044,Collision,R05,High
+I01045,Collision,R01,Medium
+I01046,Collision,R05,Medium
+I01047,Collision,R05,Medium
+I01048,Flood,R03,High
+I01049,Collision,R04,Medium
+I01050,Collision,R05,Low
+I01051,Glass Damage,R01,Low
+I01052,Water Damage,R01,Low
+I01053,Collision,R02,Medium
+I01054,Collision,R01,Low
+I01055,Glass Damage,R04,Medium
+I01056,Collision,R03,Medium
+I01057,Collision,R01,High
+I01058,Flood,R04,Medium
+I01059,Flood,R03,High
+I01060,Collision,R01,High
+I01061,Glass Damage,R02,Low
+I01062,Collision,R02,Medium
+I01063,Water Damage,R02,Low
+I01064,Theft,R02,High
+I01065,Glass Damage,R01,Medium
+I01066,Collision,R02,Low
+I01067,Theft,R03,Low
+I01068,Water Damage,R03,Medium
+I01069,Theft,R03,High
+I01070,Flood,R02,Medium
+I01071,Water Damage,R05,Low
+I01072,Theft,R02,Low
+I01073,Glass Damage,R02,Medium
+I01074,Collision,R03,Medium
+I01075,Collision,R03,Low
+I01076,Collision,R02,Unknown
+I01077,Water Damage,R02,High
+I01078,Theft,R01,Medium
+I01079,Glass Damage,R01,Medium
+I01080,Theft,R01,Medium
+I01081,Fire,R02,Medium
+I01082,Collision,R01,Medium
+I01083,Theft,R03,Low
+I01084,Fire,R03,Low
+I01085,Flood,R01,High
+I01086,Water Damage,R05,High
+I01087,Flood,R02,Medium
+I01088,Collision,R01,Low
+I01089,Collision,R03,Low
+I01090,Collision,R01,Low
+I01091,Glass Damage,R03,High
+I01092,Collision,R01,High
+I01093,Collision,R03,Medium
+I01094,Collision,R02,High
+I01095,Fire,R04,Low
+I01096,Flood,R01,Medium
+I01097,Glass Damage,R04,Low
+I01098,Flood,R03,Low
+I01099,Collision,R01,High
+I01100,Collision,R03,High
+I01101,Collision,R03,Low
+I01102,Glass Damage,R02,Low
+I01103,Glass Damage,R01,Medium
+I01104,Flood,R01,Low
+I01105,Theft,R02,Medium
+I01106,Collision,R02,Medium
+I01107,Collision,R03,Low
+I01108,Collision,R04,Low
+I01109,Theft,R01,Low
+I01110,Glass Damage,R01,High
+I01111,Collision,R04,Low
+I01112,Collision,R01,Medium
+I01113,Fire,R02,Low
+I01114,Collision,R01,Medium
+I01115,Collision,R01,Low
+I01116,Collision,R04,Low
+I01117,Fire,R02,Medium
+I01118,Glass Damage,R02,Medium
+I01119,Collision,R02,Low
+I01120,Glass Damage,R01,Low
+I01121,Unknown,R03,High
+I01122,Collision,R04,Low
+I01123,Fire,R01,Low
+I01124,Collision,R05,Medium
+I01125,Glass Damage,R01,Low
+I01126,Water Damage,R04,Medium
+I01127,Collision,R01,Medium
+I01128,Theft,R03,Medium
+I01129,Theft,R04,Medium
+I01130,Theft,R03,Medium
+I01131,Fire,R04,Medium
+I01132,Flood,R02,Low
+I01133,Collision,R04,Low
+I01134,Glass Damage,R03,Medium
+I01135,Theft,R04,Low
+I01136,Fire,R01,Low
+I01137,Theft,R03,Low
+I01138,Flood,R01,Medium
+I01139,Collision,R02,Low
+I01140,Fire,R05,Medium
+I01141,Glass Damage,R01,Medium
+I01142,Fire,R01,Medium
+I01143,Water Damage,R04,Low
+I01144,Collision,R04,High
+I01145,Glass Damage,R01,Low
+I01146,Unknown,R04,High
+I01147,Collision,R01,Medium
+I01148,Collision,R05,Low
+I01149,Theft,R04,Medium
+I01150,Collision,R02,Medium
+I01151,Collision,R01,Medium
+I01152,Theft,R02,Medium
+I01153,Collision,R02,Medium
+I01154,Water Damage,R03,Medium
+I01155,Collision,R05,High
+I01156,Collision,R05,Low
+I01157,Theft,R05,Medium
+I01158,Theft,R03,Medium
+I01159,Collision,R05,Medium
+I01160,Water Damage,R05,Medium
+I01161,Theft,R02,Low
+I01162,Glass Damage,R01,Medium
+I01163,Theft,R04,Low
+I01164,Fire,R02,Low
+I01165,Collision,R01,Unknown
+I01166,Collision,R02,Low
+I01167,Water Damage,R03,Low
+I01168,Collision,R04,Low
+I01169,Collision,R04,Medium
+I01170,Theft,R01,High
+I01171,Collision,R03,Medium
+I01172,Collision,R02,Low
+I01173,Collision,R01,High
+I01174,Flood,R02,Low
+I01175,Collision,R02,High
+I01176,Fire,R01,Medium
+I01177,Theft,R02,Low
+I01178,Collision,R04,Medium
+I01179,Collision,R01,Low
+I01180,Water Damage,R01,Medium
+I01181,Glass Damage,R03,Low
+I01182,Fire,R03,High
+I01183,Collision,R01,Medium
+I01184,Collision,R03,High
+I01185,Collision,R01,High
+I01186,Collision,R02,Low
+I01187,Glass Damage,R01,Medium
+I01188,Collision,R01,High
+I01189,Glass Damage,R01,Low
+I01190,Glass Damage,R03,Low
+I01191,Collision,R01,Low
+I01192,Flood,R01,Low
+I01193,Collision,R04,High
+I01194,Collision,R02,Medium
+I01195,Water Damage,R01,Medium
+I01196,Flood,R01,High
+I01197,Flood,R03,Low
+I01198,Collision,R01,Medium
+I01199,Collision,R03,Low
+I01200,Collision,R02,Low
+I01201,Theft,R02,Low
+I01202,Theft,R01,Low
+I01203,Glass Damage,R01,Medium
+I01204,Flood,R01,Medium
+I01205,Collision,R03,Low
+I01206,Collision,R04,Low
+I01207,Water Damage,R03,Medium
+I01208,Water Damage,R01,Low
+I01209,Theft,R04,High
+I01210,Collision,R04,High
+I01211,Collision,R03,Medium
+I01212,Collision,R01,Medium
+I01213,Glass Damage,R02,Medium
+I01214,Theft,R04,Medium
+I01215,Collision,R03,High
+I01216,Collision,R01,High
+I01217,Collision,R05,Medium
+I01218,Collision,R03,Medium
+I01219,Theft,R04,High
+I01220,Collision,R05,Low
+I01221,Collision,R01,Medium
+I01222,Collision,R03,Medium
+I01223,Fire,R01,Medium
+I01224,Collision,R03,Low
+I01225,Collision,R05,Low
+I01226,Theft,R05,Low
+I01227,Water Damage,R05,Medium
+I01228,Theft,R04,High
+I01229,Fire,R02,High
+I01230,Water Damage,R01,Low
+I01231,Water Damage,R01,Low
+I01232,Water Damage,R04,Medium
+I01233,Fire,R05,Medium
+I01234,Glass Damage,R03,Medium
+I01235,Fire,R01,Low
+I01236,Water Damage,R01,Unknown
+I01237,Water Damage,R04,Medium
+I01238,Fire,R04,Medium
+I01239,Theft,R01,Low
+I01240,Flood,R01,High
+I01241,Collision,R01,Medium
+I01242,Collision,R01,High
+I01243,Water Damage,R03,Medium
+I01244,Collision,R02,Medium
+I01245,Glass Damage,R03,High
+I01246,Fire,R02,High
+I01247,Collision,R03,High
+I01248,Collision,R02,High
+I01249,Water Damage,R01,Medium
+I01250,Collision,R01,Low
+I01251,Collision,R01,Low
+I01252,Fire,R01,High
+I01253,Water Damage,R05,Low
+I01254,Theft,R01,Medium
+I01255,Glass Damage,R05,High
+I01256,Flood,R04,High
+I01257,Collision,R02,High
+I01258,Glass Damage,R01,Medium
+I01259,Theft,R02,Medium
+I01260,Theft,R02,High
+I01261,Collision,R04,Low
+I01262,Fire,R01,Low
+I01263,Fire,R01,High
+I01264,Glass Damage,R03,Medium
+I01265,Collision,R01,Medium
+I01266,Collision,R01,Low
+I01267,Theft,R01,Medium
+I01268,Collision,R01,High
+I01269,Theft,R01,Medium
+I01270,Flood,R02,Medium
+I01271,Glass Damage,R04,Medium
+I01272,Collision,R02,High
+I01273,Collision,R02,High
+I01274,Theft,R03,Medium
+I01275,Collision,R04,Medium
+I01276,Glass Damage,R01,Low
+I01277,Theft,R01,Medium
+I01278,Fire,R03,Low
+I01279,Collision,R01,Medium
+I01280,Collision,R04,Medium
+I01281,Flood,R02,Low
+I01282,Theft,R03,Low
+I01283,Water Damage,R02,Low
+I01284,Glass Damage,R01,Low
+I01285,Collision,R04,Medium
+I01286,Glass Damage,R02,Low
+I01287,Collision,R01,Low
+I01288,Flood,R03,High
+I01289,Collision,R04,Low
+I01290,Collision,R05,High
+I01291,Water Damage,R01,Medium
+I01292,Glass Damage,R02,Medium
+I01293,Fire,R04,Medium
+I01294,Water Damage,R01,Low
+I01295,Fire,R02,High
+I01296,Glass Damage,R03,High
+I01297,Collision,R02,Low
+I01298,Flood,R01,Medium
+I01299,Collision,R02,Medium
+I01300,Water Damage,R01,High
+I01301,Collision,R04,High
+I01302,Collision,R04,Low
+I01303,Fire,R02,High
+I01304,Collision,R01,High
+I01305,Fire,R02,Medium
+I01306,Theft,R03,Low
+I01307,Fire,R01,High
+I01308,Glass Damage,R01,Medium
+I01309,Theft,R01,Low
+I01310,Collision,R03,High
+I01311,Flood,R04,Medium
+I01312,Water Damage,R01,High
+I01313,Collision,R01,Medium
+I01314,Theft,R02,Low
+I01315,Collision,R03,High
+I01316,Flood,R01,Medium
+I01317,Flood,R02,Medium
+I01318,Fire,R02,Medium
+I01319,Fire,R01,Low
+I01320,Glass Damage,R01,Medium
+I01321,Flood,R03,Medium
+I01322,Theft,R01,High
+I01323,Water Damage,R01,High
+I01324,Glass Damage,R04,Medium
+I01325,Glass Damage,R02,Low
+I01326,Collision,R02,Medium
+I01327,Flood,R02,Low
+I01328,Water Damage,R03,High
+I01329,Collision,R01,Medium
+I01330,Collision,R03,High
+I01331,Collision,R01,Low
+I01332,Glass Damage,R03,Low
+I01333,Theft,R02,High
+I01334,Water Damage,R02,Medium
+I01335,Fire,R04,High
+I01336,Flood,R03,High
+I01337,Flood,R03,Medium
+I01338,Collision,R03,Medium
+I01339,Theft,R04,Medium
+I01340,Glass Damage,R03,High
+I01341,Collision,R04,High
+I01342,Flood,R05,Low
+I01343,Collision,R01,Medium
+I01344,Flood,R05,Low
+I01345,Collision,R01,Medium
+I01346,Collision,R05,High
+I01347,Flood,R02,High
+I01348,Collision,R01,Medium
+I01349,Collision,R04,Low
+I01350,Glass Damage,R03,Low
+I01351,Collision,R01,Low
+I01352,Collision,R01,Low
+I01353,Theft,R03,High
+I01354,Glass Damage,R02,Medium
+I01355,Collision,R03,Low
+I01356,Fire,R03,Medium
+I01357,Water Damage,R05,Low
+I01358,Theft,R03,Low
+I01359,Collision,R02,High
+I01360,Theft,R03,Low
+I01361,Collision,R03,Medium
+I01362,Fire,R02,Medium
+I01363,Water Damage,R02,Low
+I01364,Collision,R04,Low
+I01365,Theft,R05,Low
+I01366,Fire,R03,Low
+I01367,Fire,R05,High
+I01368,Flood,R01,Medium
+I01369,Water Damage,R01,Medium
+I01370,Collision,R01,Low
+I01371,Theft,R01,High
+I01372,Fire,R02,Low
+I01373,Water Damage,R01,High
+I01374,Fire,R01,Low
+I01375,Theft,R05,High
+I01376,Flood,R02,Low
+I01377,Collision,R05,Low
+I01378,Glass Damage,R03,Medium
+I01379,Water Damage,R03,Low
+I01380,Water Damage,R04,Medium
+I01381,Collision,R03,Medium
+I01382,Water Damage,R05,Medium
+I01383,Collision,R02,Low
+I01384,Fire,R05,Medium
+I01385,Collision,R05,Low
+I01386,Collision,R01,High
+I01387,Glass Damage,R03,Medium
+I01388,Glass Damage,R04,Medium
+I01389,Fire,R02,High
+I01390,Collision,R03,Medium
+I01391,Collision,R02,Medium
+I01392,Collision,R01,Low
+I01393,Collision,R02,Medium
+I01394,Collision,R01,Low
+I01395,Water Damage,R01,Low
+I01396,Glass Damage,R04,High
+I01397,Collision,R03,Low
+I01398,Theft,R01,Unknown
+I01399,Collision,R01,Low
+I01400,Water Damage,R01,Medium
+I01401,Flood,R01,High
+I01402,Water Damage,R01,Low
+I01403,Collision,R04,Medium
+I01404,Collision,R02,Medium
+I01405,Theft,R01,High
+I01406,Water Damage,R04,Low
+I01407,Collision,R02,Medium
+I01408,Fire,R02,Medium
+I01409,Fire,R03,Medium
+I01410,Fire,R01,Low
+I01411,Theft,R02,Low
+I01412,Glass Damage,R02,Medium
+I01413,Collision,R01,Low
+I01414,Collision,R02,Medium
+I01415,Theft,R02,Medium
+I01416,Flood,R05,Medium
+I01417,Collision,R02,Unknown
+I01418,Theft,R05,Low
+I01419,Collision,R02,Medium
+I01420,Glass Damage,R02,Medium
+I01421,Collision,R05,High
+I01422,Fire,R01,Medium
+I01423,Fire,R02,Medium
+I01424,Collision,R01,Low
+I01425,Collision,R01,High
+I01426,Collision,R03,Low
+I01427,Glass Damage,R01,Low
+I01428,Glass Damage,R01,Low
+I01429,Theft,R01,Low
+I01430,Flood,R01,Medium
+I01431,Water Damage,R02,Low
+I01432,Collision,R04,Low
+I01433,Theft,R01,Low
+I01434,Fire,R02,High
+I01435,Theft,R01,Medium
+I01436,Collision,R03,High
+I01437,Glass Damage,R02,High
+I01438,Collision,R03,High
+I01439,Collision,R01,Medium
+I01440,Glass Damage,R03,Low
+I01441,Flood,R02,Low
+I01442,Flood,R02,Unknown
+I01443,Collision,R01,Medium
+I01444,Collision,R05,Low
+I01445,Water Damage,R01,Low
+I01446,Collision,R03,Medium
+I01447,Theft,R01,Low
+I01448,Water Damage,R03,Low
+I01449,Collision,R05,Low
+I01450,Collision,R02,Medium
+I01451,Collision,R04,Low
+I01452,Collision,R03,Low
+I01453,Collision,R01,Low
+I01454,Collision,R03,Medium
+I01455,Theft,R01,Low
+I01456,Collision,R01,Low
+I01457,Fire,R04,High
+I01458,Glass Damage,R04,High
+I01459,Collision,R05,Low
+I01460,Water Damage,R03,Low
+I01461,Collision,R03,Low
+I01462,Flood,R05,Medium
+I01463,Collision,R01,Low
+I01464,Collision,R01,High
+I01465,Collision,R02,High
+I01466,Collision,R03,Medium
+I01467,Collision,R02,Low
+I01468,Glass Damage,R02,High
+I01469,Collision,R05,Medium
+I01470,Unknown,R02,Medium
+I01471,Collision,R03,Low
+I01472,Flood,R05,Medium
+I01473,Fire,R03,High
+I01474,Water Damage,R04,High
+I01475,Collision,R02,Medium
+I01476,Collision,R03,Medium
+I01477,Theft,R01,Medium
+I01478,Collision,R05,Medium
+I01479,Collision,R01,High
+I01480,Collision,R02,Medium
+I01481,Water Damage,R01,Low
+I01482,Glass Damage,R03,Low
+I01483,Theft,R02,Medium
+I01484,Collision,R03,High
+I01485,Collision,R01,Low
+I01486,Collision,R04,Low
+I01487,Glass Damage,R01,High
+I01488,Glass Damage,R02,Medium
+I01489,Glass Damage,R03,Low
+I01490,Collision,R01,Low
+I01491,Theft,R05,Medium
+I01492,Water Damage,R03,Low
+I01493,Glass Damage,R01,Medium
+I01494,Theft,R02,Medium
+I01495,Water Damage,R02,Medium
+I01496,Collision,R05,Medium
+I01497,Water Damage,R04,Low
+I01498,Theft,R03,Low
+I01499,Collision,R03,Unknown
+I01500,Collision,R01,Low
+I01501,Fire,R01,Medium
+I01502,Glass Damage,R05,Low
+I01503,Glass Damage,R01,Medium
+I01504,Collision,R02,Low
+I01505,Collision,R03,Low
+I01506,Collision,R04,Low
+I01507,Glass Damage,R01,Medium
+I01508,Theft,R05,Medium
+I01509,Water Damage,R03,High
+I01510,Glass Damage,R01,Low
+I01511,Collision,R01,Medium
+I01512,Fire,R02,Medium
+I01513,Theft,R02,Low
+I01514,Collision,R04,Low
+I01515,Flood,R03,Low
+I01516,Glass Damage,R01,Low
+I01517,Collision,R01,High
+I01518,Fire,R01,Low
+I01519,Fire,R01,Medium
+I01520,Collision,R01,Medium
+I01521,Glass Damage,R02,Low
+I01522,Theft,R04,Medium
+I01523,Theft,R02,Low
+I01524,Theft,R01,Medium
+I01525,Collision,R02,Low
+I01526,Theft,R01,Low
+I01527,Glass Damage,R01,Low
+I01528,Collision,R02,Medium
+I01529,Theft,R04,Medium
+I01530,Collision,R03,Medium
+I01531,Collision,R05,Low
+I01532,Collision,R01,High
+I01533,Glass Damage,R01,Low
+I01534,Collision,R03,High
+I01535,Collision,R03,Medium
+I01536,Theft,R02,Medium
+I01537,Fire,R01,Medium
+I01538,Theft,R02,Medium
+I01539,Glass Damage,R04,Medium
+I01540,Collision,R04,Low
+I01541,Fire,R01,Medium
+I01542,Collision,R03,Low
+I01543,Fire,R02,Medium
+I01544,Collision,R02,Medium
+I01545,Water Damage,R01,High
+I01546,Collision,R02,Medium
+I01547,Glass Damage,R02,Low
+I01548,Glass Damage,R02,Medium
+I01549,Theft,R02,Low
+I01550,Collision,R01,Medium
+I01551,Glass Damage,R02,Medium
+I01552,Theft,R03,Medium
+I01553,Theft,R02,Unknown
+I01554,Glass Damage,R01,Low
+I01555,Theft,R03,Medium
+I01556,Flood,R02,Low
+I01557,Collision,R01,Low
+I01558,Flood,R02,Low
+I01559,Collision,R01,Medium
+I01560,Collision,R05,Low
+I01561,Collision,R01,Medium
+I01562,Fire,R05,High
+I01563,Theft,R01,Medium
+I01564,Flood,R05,Low
+I01565,Collision,R02,Low
+I01566,Water Damage,R03,Low
+I01567,Collision,R03,Medium
+I01568,Collision,R01,Medium
+I01569,Fire,R02,Low
+I01570,Flood,R03,Low
+I01571,Water Damage,R01,Low
+I01572,Collision,R03,Low
+I01573,Collision,R03,High
+I01574,Theft,R02,Low
+I01575,Collision,R04,Low
+I01576,Collision,R01,Low
+I01577,Flood,R02,Low
+I01578,Collision,R02,Low
+I01579,Theft,R04,Medium
+I01580,Glass Damage,R02,Low
+I01581,Glass Damage,R05,Low
+I01582,Collision,R03,Medium
+I01583,Theft,R01,Medium
+I01584,Theft,R05,Low
+I01585,Water Damage,R03,High
+I01586,Flood,R04,Low
+I01587,Glass Damage,R02,High
+I01588,Collision,R05,High
+I01589,Glass Damage,R01,Medium
+I01590,Fire,R02,Low
+I01591,Theft,R01,High
+I01592,Collision,R03,Low
+I01593,Fire,R01,Low
+I01594,Fire,R01,Medium
+I01595,Glass Damage,R01,Medium
+I01596,Collision,R01,High
+I01597,Collision,R01,Medium
+I01598,Collision,R02,High
+I01599,Theft,R02,Medium
+I01600,Collision,R02,Medium
+I01601,Collision,R05,Medium
+I01602,Theft,R04,High
+I01603,Collision,R01,High
+I01604,Collision,R01,High
+I01605,Flood,R03,Medium
+I01606,Fire,R04,Medium
+I01607,Fire,R03,Low
+I01608,Glass Damage,R01,High
+I01609,Collision,R01,Low
+I01610,Collision,R01,Low
+I01611,Collision,R05,Medium
+I01612,Glass Damage,R01,Medium
+I01613,Collision,R01,Medium
+I01614,Collision,R01,Low
+I01615,Glass Damage,R04,Low
+I01616,Collision,R03,Low
+I01617,Collision,R01,Unknown
+I01618,Collision,R04,Low
+I01619,Theft,R03,Medium
+I01620,Water Damage,R02,Low
+I01621,Collision,R01,Low
+I01622,Glass Damage,R03,Low
+I01623,Collision,R03,Medium
+I01624,Collision,R04,High
+I01625,Fire,R01,Low
+I01626,Water Damage,R05,Low
+I01627,Collision,R03,Medium
+I01628,Theft,R05,Low
+I01629,Theft,R02,High
+I01630,Collision,R01,High
+I01631,Flood,R01,Medium
+I01632,Collision,R01,High
+I01633,Collision,R04,Medium
+I01634,Glass Damage,R02,Medium
+I01635,Flood,R02,Low
+I01636,Theft,R03,Low
+I01637,Flood,R01,Low
+I01638,Collision,R03,Medium
+I01639,Glass Damage,R01,Medium
+I01640,Collision,R01,Low
+I01641,Fire,R03,Medium
+I01642,Fire,R01,Low
+I01643,Collision,R02,Low
+I01644,Collision,R02,Low
+I01645,Collision,R02,Medium
+I01646,Glass Damage,R03,Medium
+I01647,Collision,R02,Medium
+I01648,Fire,R03,Low
+I01649,Collision,R01,Medium
+I01650,Theft,R01,High
+I01651,Collision,R04,Low
+I01652,Theft,R02,Medium
+I01653,Water Damage,R01,Low
+I01654,Theft,R01,Low
+I01655,Theft,R03,Medium
+I01656,Theft,R02,Low
+I01657,Theft,R05,Medium
+I01658,Theft,R02,High
+I01659,Collision,R02,Low
+I01660,Theft,R02,Low
+I01661,Theft,R02,High
+I01662,Collision,R01,Medium
+I01663,Collision,R01,High
+I01664,Collision,R03,Low
+I01665,Collision,R04,Medium
+I01666,Glass Damage,R05,High
+I01667,Flood,R03,Low
+I01668,Collision,R02,High
+I01669,Collision,R02,Medium
+I01670,Collision,R02,High
+I01671,Water Damage,R03,Low
+I01672,Collision,R01,Medium
+I01673,Water Damage,R02,Low
+I01674,Theft,R04,High
+I01675,Theft,R02,Low
+I01676,Theft,R01,Low
+I01677,Glass Damage,R01,High
+I01678,Theft,R02,Low
+I01679,Flood,R04,Medium
+I01680,Unknown,R03,Low
+I01681,Flood,R01,Medium
+I01682,Water Damage,R03,Low
+I01683,Collision,R02,Medium
+I01684,Collision,R01,Medium
+I01685,Collision,R05,Low
+I01686,Theft,R03,Low
+I01687,Fire,R02,Low
+I01688,Collision,R01,Medium
+I01689,Fire,R01,Low
+I01690,Collision,R02,Low
+I01691,Collision,R04,Low
+I01692,Fire,R02,Medium
+I01693,Glass Damage,R02,Medium
+I01694,Collision,R03,Medium
+I01695,Fire,R02,High
+I01696,Collision,R05,Medium
+I01697,Fire,R03,High
+I01698,Flood,R02,Medium
+I01699,Flood,R03,Low
+I01700,Theft,R01,High
+I01701,Collision,R01,Medium
+I01702,Collision,R01,Medium
+I01703,Glass Damage,R03,Low
+I01704,Flood,R04,Low
+I01705,Flood,R05,Medium
+I01706,Collision,R01,Medium
+I01707,Theft,R03,Medium
+I01708,Theft,R03,Low
+I01709,Flood,R05,Medium
+I01710,Water Damage,R02,Low
+I01711,Collision,R01,Low
+I01712,Flood,R03,Low
+I01713,Fire,R02,High
+I01714,Collision,R04,Medium
+I01715,Flood,R03,High
+I01716,Collision,R02,Medium
+I01717,Collision,R01,Medium
+I01718,Flood,R01,Medium
+I01719,Water Damage,R01,High
+I01720,Theft,R02,High
+I01721,Flood,R05,Medium
+I01722,Collision,R04,Unknown
+I01723,Theft,R02,Medium
+I01724,Flood,R04,Low
+I01725,Flood,R01,Unknown
+I01726,Collision,R02,Medium
+I01727,Collision,R04,High
+I01728,Fire,R01,Low
+I01729,Theft,R01,Low
+I01730,Water Damage,R04,High
+I01731,Collision,R03,Low
+I01732,Collision,R01,Low
+I01733,Theft,R02,Medium
+I01734,Collision,R01,High
+I01735,Theft,R01,Medium
+I01736,Collision,R01,Medium
+I01737,Flood,R02,Low
+I01738,Theft,R05,Low
+I01739,Fire,R02,Medium
+I01740,Theft,R04,High
+I01741,Collision,R01,Low
+I01742,Theft,R01,Low
+I01743,Water Damage,R01,Low
+I01744,Collision,R03,Low
+I01745,Collision,R03,Low
+I01746,Collision,R02,Low
+I01747,Glass Damage,R02,Medium
+I01748,Collision,R01,Low
+I01749,Glass Damage,R03,Medium
+I01750,Collision,R01,Medium
+I01751,Collision,R01,High
+I01752,Collision,R03,High
+I01753,Theft,R05,Low
+I01754,Flood,R04,Low
+I01755,Fire,R02,Medium
+I01756,Collision,R02,Low
+I01757,Collision,R03,Low
+I01758,Water Damage,R02,Low
+I01759,Collision,R03,High
+I01760,Collision,R01,Low
+I01761,Collision,R01,Medium
+I01762,Glass Damage,R01,Medium
+I01763,Collision,R01,Medium
+I01764,Collision,R01,Low
+I01765,Collision,R02,High
+I01766,Collision,R02,Medium
+I01767,Flood,R03,Medium
+I01768,Theft,R01,Low
+I01769,Collision,R01,High
+I01770,Collision,R02,Medium
+I01771,Fire,R04,Low
+I01772,Collision,R05,Low
+I01773,Flood,R01,Low
+I01774,Glass Damage,R02,Low
+I01775,Water Damage,R04,Low
+I01776,Collision,R03,Low
+I01777,Collision,R01,Low
+I01778,Collision,R01,High
+I01779,Collision,R02,Medium
+I01780,Collision,R04,High
+I01781,Collision,R02,Medium
+I01782,Collision,R01,Medium
+I01783,Collision,R01,Low
+I01784,Collision,R01,Medium
+I01785,Water Damage,R05,Low
+I01786,Water Damage,R03,Medium
+I01787,Water Damage,R04,High
+I01788,Glass Damage,R05,High
+I01789,Collision,R02,Low
+I01790,Theft,R02,Medium
+I01791,Collision,R02,Low
+I01792,Flood,R01,Low
+I01793,Collision,R05,Low
+I01794,Glass Damage,R03,Low
+I01795,Collision,R03,Medium
+I01796,Collision,R01,Low
+I01797,Glass Damage,R02,Low
+I01798,Collision,R03,High
+I01799,Water Damage,R01,Medium
+I01800,Collision,R02,Low
+I01801,Flood,R03,Medium
+I01802,Theft,R03,Medium
+I01803,Theft,R03,Medium
+I01804,Theft,R01,Medium
+I01805,Water Damage,R03,High
+I01806,Theft,R03,Low
+I01807,Fire,R01,Medium
+I01808,Fire,R02,Low
+I01809,Theft,R01,High
+I01810,Theft,R01,Low
+I01811,Glass Damage,R01,Low
+I01812,Collision,R01,High
+I01813,Water Damage,R05,Medium
+I01814,Theft,R01,Low
+I01815,Collision,R03,Low
+I01816,Collision,R02,Low
+I01817,Fire,R01,High
+I01818,Fire,R04,Medium
+I01819,Collision,R03,Low
+I01820,Collision,R01,Unknown
+I01821,Collision,R02,Medium
+I01822,Collision,R02,Low
+I01823,Theft,R03,High
+I01824,Collision,R04,Unknown
+I01825,Water Damage,R04,High
+I01826,Fire,R03,Medium
+I01827,Collision,R01,Low
+I01828,Collision,R03,Medium
+I01829,Collision,R03,Medium
+I01830,Collision,R04,Medium
+I01831,Collision,R02,Medium
+I01832,Collision,R01,Low
+I01833,Collision,R03,Low
+I01834,Collision,R02,Medium
+I01835,Collision,R02,Low
+I01836,Collision,R01,Low
+I01837,Collision,R01,Medium
+I01838,Collision,R02,Low
+I01839,Fire,R02,Medium
+I01840,Fire,R01,High
+I01841,Theft,R02,High
+I01842,Collision,R01,Low
+I01843,Theft,R01,Medium
+I01844,Theft,R01,High
+I01845,Flood,R01,Low
+I01846,Collision,R02,Medium
+I01847,Water Damage,R03,Medium
+I01848,Collision,R01,Low
+I01849,Fire,R05,Low
+I01850,Collision,R01,Medium
+I01851,Collision,R04,Low
+I01852,Collision,R05,High
+I01853,Theft,R02,Medium
+I01854,Collision,R02,Low
+I01855,Theft,R01,Medium
+I01856,Theft,R01,Medium
+I01857,Collision,R03,Low
+I01858,Glass Damage,R01,High
+I01859,Water Damage,R04,Medium
+I01860,Collision,R03,Medium
+I01861,Collision,R05,High
+I01862,Collision,R04,Medium
+I01863,Collision,R03,Medium
+I01864,Collision,R01,Low
+I01865,Collision,R04,Low
+I01866,Water Damage,R01,Medium
+I01867,Collision,R01,Medium
+I01868,Theft,R04,Medium
+I01869,Collision,R03,Medium
+I01870,Collision,R05,Medium
+I01871,Collision,R02,High
+I01872,Theft,R01,High
+I01873,Theft,R05,Low
+I01874,Collision,R01,High
+I01875,Theft,R05,High
+I01876,Collision,R02,Low
+I01877,Theft,R05,Low
+I01878,Collision,R02,Low
+I01879,Collision,R01,Medium
+I01880,Theft,R01,Medium
+I01881,Glass Damage,R04,Medium
+I01882,Theft,R03,Medium
+I01883,Collision,R03,Low
+I01884,Theft,R01,Low
+I01885,Collision,R03,High
+I01886,Theft,R01,High
+I01887,Glass Damage,R02,Medium
+I01888,Collision,R05,Low
+I01889,Water Damage,R05,Low
+I01890,Collision,R01,Low
+I01891,Collision,R02,Medium
+I01892,Collision,R03,Low
+I01893,Collision,R01,High
+I01894,Collision,R02,Medium
+I01895,Collision,R02,Unknown
+I01896,Collision,R02,Low
+I01897,Theft,R01,Low
+I01898,Collision,R02,Medium
+I01899,Collision,R03,Medium
+I01900,Theft,R01,Low
+I01901,Glass Damage,R01,Unknown
+I01902,Collision,R02,Low
+I01903,Collision,R03,Low
+I01904,Fire,R02,High
+I01905,Collision,R02,Low
+I01906,Unknown,R02,Low
+I01907,Theft,R02,Medium
+I01908,Theft,R05,Low
+I01909,Theft,R05,Low
+I01910,Collision,R02,Low
+I01911,Unknown,R01,Unknown
+I01912,Theft,R01,Medium
+I01913,Glass Damage,R01,Low
+I01914,Fire,R05,Medium
+I01915,Fire,R01,High
+I01916,Collision,R01,Low
+I01917,Collision,R03,Unknown
+I01918,Flood,R01,Low
+I01919,Water Damage,R03,Low
+I01920,Collision,R01,Low
+I01921,Theft,R02,Medium
+I01922,Collision,R01,Low
+I01923,Fire,R01,Medium
+I01924,Theft,R01,Medium
+I01925,Collision,R01,High
+I01926,Flood,R02,Low
+I01927,Collision,R04,Low
+I01928,Glass Damage,R05,High
+I01929,Glass Damage,R01,Low
+I01930,Fire,R02,Unknown
+I01931,Theft,R04,Medium
+I01932,Collision,R01,Medium
+I01933,Collision,R02,Low
+I01934,Collision,R05,Low
+I01935,Theft,R02,Medium
+I01936,Collision,R01,Medium
+I01937,Unknown,R01,Medium
+I01938,Fire,R01,Medium
+I01939,Flood,R05,High
+I01940,Fire,R01,High
+I01941,Collision,R02,Medium
+I01942,Collision,R03,Low
+I01943,Collision,R02,Medium
+I01944,Theft,R02,Medium
+I01945,Collision,R03,Unknown
+I01946,Collision,R03,Low
+I01947,Fire,R01,Medium
+I01948,Fire,R02,Low
+I01949,Glass Damage,R04,Low
+I01950,Glass Damage,R03,High
+I01951,Water Damage,R03,Medium
+I01952,Glass Damage,R02,Medium
+I01953,Glass Damage,R02,Medium
+I01954,Collision,R02,Medium
+I01955,Glass Damage,R05,Low
+I01956,Flood,R01,Medium
+I01957,Collision,R02,Low
+I01958,Water Damage,R01,Medium
+I01959,Flood,R02,Low
+I01960,Water Damage,R03,High
+I01961,Theft,R03,Medium
+I01962,Fire,R01,Medium
+I01963,Glass Damage,R01,Low
+I01964,Collision,R02,Low
+I01965,Collision,R01,Medium
+I01966,Theft,R02,Medium
+I01967,Water Damage,R01,Medium
+I01968,Theft,R01,High
+I01969,Glass Damage,R03,Medium
+I01970,Flood,R02,Medium
+I01971,Theft,R01,Medium
+I01972,Glass Damage,R02,Medium
+I01973,Water Damage,R02,Medium
+I01974,Collision,R03,Medium
+I01975,Glass Damage,R02,Low
+I01976,Collision,R04,Low
+I01977,Flood,R05,Low
+I01978,Collision,R01,High
+I01979,Collision,R03,Medium
+I01980,Flood,R04,Low
+I01981,Water Damage,R03,Medium
+I01982,Collision,R01,Medium
+I01983,Theft,R01,High
+I01984,Flood,R01,High
+I01985,Fire,R03,High
+I01986,Collision,R01,Unknown
+I01987,Theft,R02,Low
+I01988,Collision,R01,Low
+I01989,Water Damage,R02,Medium
+I01990,Flood,R01,Medium
+I01991,Fire,R02,Low
+I01992,Flood,R01,Medium
+I01993,Fire,R03,Low
+I01994,Collision,R03,Low
+I01995,Theft,R01,Low
+I01996,Fire,R05,High
+I01997,Theft,R02,Medium
+I01998,Flood,R02,Medium
+I01999,Collision,R03,High
+I02000,Water Damage,R03,High
+I02001,Glass Damage,R05,Low
+I02002,Collision,R02,Medium
+I02003,Collision,R02,Low
+I02004,Collision,R05,Medium
+I02005,Collision,R01,Low
+I02006,Collision,R02,Medium
+I02007,Collision,R03,Medium
+I02008,Water Damage,R03,Low
+I02009,Fire,R04,Medium
+I02010,Glass Damage,R01,Unknown
+I02011,Collision,R01,Medium
+I02012,Collision,R02,Low
+I02013,Water Damage,R01,Low
+I02014,Flood,R01,Low
+I02015,Collision,R02,High
+I02016,Glass Damage,R03,High
+I02017,Collision,R02,Low
+I02018,Fire,R01,Medium
+I02019,Unknown,R05,Medium
+I02020,Collision,R01,High
+I02021,Collision,R05,Low
+I02022,Water Damage,R01,Medium
+I02023,Flood,R04,Unknown
+I02024,Flood,R01,Low
+I02025,Theft,R01,Low
+I02026,Flood,R03,Low
+I02027,Water Damage,R01,Medium
+I02028,Glass Damage,R02,Medium
+I02029,Collision,R04,Medium
+I02030,Theft,R02,Low
+I02031,Flood,R01,High
+I02032,Collision,R02,Low
+I02033,Collision,R01,High
+I02034,Glass Damage,R04,Low
+I02035,Theft,R01,High
+I02036,Collision,R01,High
+I02037,Collision,R01,High
+I02038,Theft,R02,High
+I02039,Glass Damage,R01,Unknown
+I02040,Theft,R02,Medium
+I02041,Collision,R04,Unknown
+I02042,Fire,R01,Medium
+I02043,Flood,R01,High
+I02044,Collision,R03,Low
+I02045,Water Damage,R02,Medium
+I02046,Collision,R04,High
+I02047,Fire,R01,Low
+I02048,Theft,R03,Low
+I02049,Collision,R03,Low
+I02050,Theft,R05,Medium
+I02051,Theft,R01,High
+I02052,Water Damage,R03,Low
+I02053,Collision,R03,Medium
+I02054,Water Damage,R02,Medium
+I02055,Collision,R03,Medium
+I02056,Collision,R01,Medium
+I02057,Collision,R05,High
+I02058,Collision,R02,Low
+I02059,Collision,R02,Low
+I02060,Collision,R05,Medium
+I02061,Collision,R04,Medium
+I02062,Glass Damage,R03,Medium
+I02063,Theft,R01,Low
+I02064,Collision,R01,Low
+I02065,Flood,R01,High
+I02066,Collision,R04,Low
+I02067,Collision,R05,Medium
+I02068,Theft,R03,Medium
+I02069,Water Damage,R01,Low
+I02070,Water Damage,R01,Low
+I02071,Unknown,R02,Low
+I02072,Collision,R04,Medium
+I02073,Collision,R01,Unknown
+I02074,Theft,R03,Medium
+I02075,Flood,R02,Low
+I02076,Water Damage,R03,Low
+I02077,Collision,R04,Low
+I02078,Flood,R05,Low
+I02079,Water Damage,R01,Low
+I02080,Collision,R01,High
+I02081,Collision,R05,Low
+I02082,Glass Damage,R04,Medium
+I02083,Theft,R03,Medium
+I02084,Collision,R02,Medium
+I02085,Theft,R01,Medium
+I02086,Collision,R01,Low
+I02087,Collision,R02,Medium
+I02088,Collision,R04,Low
+I02089,Fire,R01,Medium
+I02090,Collision,R03,Low
+I02091,Theft,R03,Medium
+I02092,Water Damage,R03,Medium
+I02093,Collision,R01,Medium
+I02094,Water Damage,R02,Low
+I02095,Collision,R02,Medium
+I02096,Theft,R02,Medium
+I02097,Collision,R03,Medium
+I02098,Fire,R05,Low
+I02099,Glass Damage,R04,Low
+I02100,Unknown,R04,Low
+I02101,Theft,R01,Medium
+I02102,Glass Damage,R02,Medium
+I02103,Collision,R01,Medium
+I02104,Collision,R03,Medium
+I02105,Flood,R02,Medium
+I02106,Glass Damage,R03,Medium
+I02107,Collision,R03,Medium
+I02108,Collision,R02,Medium
+I02109,Collision,R01,Low
+I02110,Flood,R01,High
+I02111,Theft,R01,High
+I02112,Theft,R02,Medium
+I02113,Theft,R04,High
+I02114,Collision,R05,High
+I02115,Theft,R01,Medium
+I02116,Collision,R01,Medium
+I02117,Unknown,R04,Medium
+I02118,Fire,R01,Low
+I02119,Fire,R03,Low
+I02120,Collision,R01,Medium
+I02121,Collision,R02,Medium
+I02122,Glass Damage,R04,Low
+I02123,Fire,R02,Medium
+I02124,Water Damage,R05,Medium
+I02125,Collision,R02,Medium
+I02126,Flood,R03,Low
+I02127,Theft,R05,Medium
+I02128,Theft,R03,Low
+I02129,Flood,R01,Low
+I02130,Theft,R02,Low
+I02131,Collision,R01,Low
+I02132,Collision,R01,Low
+I02133,Theft,R01,Medium
+I02134,Collision,R04,Medium
+I02135,Collision,R02,Low
+I02136,Collision,R01,High
+I02137,Collision,R03,Medium
+I02138,Collision,R05,High
+I02139,Glass Damage,R04,Medium
+I02140,Collision,R01,Low
+I02141,Glass Damage,R01,High
+I02142,Collision,R02,High
+I02143,Glass Damage,R05,Medium
+I02144,Collision,R03,Medium
+I02145,Fire,R02,Medium
+I02146,Collision,R04,Medium
+I02147,Water Damage,R03,Medium
+I02148,Collision,R01,Medium
+I02149,Fire,R01,Low
+I02150,Fire,R05,Low
+I02151,Theft,R03,Low
+I02152,Theft,R03,Low
+I02153,Water Damage,R03,Low
+I02154,Collision,R03,High
+I02155,Water Damage,R02,Low
+I02156,Theft,R02,Low
+I02157,Unknown,R04,Low
+I02158,Flood,R02,Medium
+I02159,Collision,R03,Medium
+I02160,Theft,R01,Medium
+I02161,Flood,R01,High
+I02162,Glass Damage,R03,High
+I02163,Collision,R01,High
+I02164,Collision,R01,High
+I02165,Glass Damage,R05,Low
+I02166,Fire,R04,Medium
+I02167,Collision,R02,Low
+I02168,Collision,R01,Medium
+I02169,Collision,R03,Low
+I02170,Fire,R05,Low
+I02171,Flood,R04,Low
+I02172,Water Damage,R03,Medium
+I02173,Glass Damage,R01,Medium
+I02174,Water Damage,R01,Low
+I02175,Collision,R02,Medium
+I02176,Glass Damage,R01,Low
+I02177,Theft,R02,Medium
+I02178,Glass Damage,R04,Low
+I02179,Collision,R03,Unknown
+I02180,Collision,R05,Medium
+I02181,Collision,R01,Medium
+I02182,Collision,R03,High
+I02183,Theft,R01,Medium
+I02184,Water Damage,R01,High
+I02185,Collision,R03,Low
+I02186,Fire,R03,Low
+I02187,Theft,R03,High
+I02188,Flood,R02,Low
+I02189,Fire,R01,Medium
+I02190,Collision,R03,Low
+I02191,Theft,R04,Medium
+I02192,Glass Damage,R01,Low
+I02193,Fire,R01,Medium
+I02194,Glass Damage,R04,Medium
+I02195,Glass Damage,R01,Low
+I02196,Theft,R01,Low
+I02197,Fire,R02,Low
+I02198,Collision,R01,Low
+I02199,Theft,R01,Low
+I02200,Theft,R02,High
+I02201,Collision,R01,Low
+I02202,Fire,R03,Medium
+I02203,Water Damage,R05,Medium
+I02204,Flood,R02,Low
+I02205,Collision,R02,Low
+I02206,Water Damage,R01,Medium
+I02207,Theft,R05,Medium
+I02208,Collision,R02,High
+I02209,Fire,R03,Medium
+I02210,Water Damage,R03,Medium
+I02211,Glass Damage,R04,High
+I02212,Collision,R03,High
+I02213,Flood,R02,High
+I02214,Collision,R02,Low
+I02215,Glass Damage,R04,High
+I02216,Collision,R03,High
+I02217,Glass Damage,R03,Medium
+I02218,Fire,R02,Medium
+I02219,Collision,R01,High
+I02220,Fire,R01,Medium
+I02221,Fire,R01,Medium
+I02222,Glass Damage,R02,Medium
+I02223,Collision,R03,Medium
+I02224,Collision,R01,Medium
+I02225,Collision,R04,Low
+I02226,Water Damage,R01,Low
+I02227,Collision,R05,Low
+I02228,Collision,R02,Medium
+I02229,Fire,R03,Medium
+I02230,Theft,R01,High
+I02231,Fire,R02,Medium
+I02232,Collision,R03,Medium
+I02233,Collision,R01,Low
+I02234,Fire,R05,Medium
+I02235,Fire,R02,High
+I02236,Glass Damage,R01,Medium
+I02237,Collision,R03,High
+I02238,Collision,R01,High
+I02239,Collision,R02,Low
+I02240,Glass Damage,R03,Medium
+I02241,Theft,R01,Medium
+I02242,Glass Damage,R01,Medium
+I02243,Flood,R02,Low
+I02244,Glass Damage,R02,Low
+I02245,Theft,R02,Low
+I02246,Unknown,R03,Medium
+I02247,Collision,R02,Low
+I02248,Flood,R02,Medium
+I02249,Water Damage,R03,Medium
+I02250,Water Damage,R03,Medium
+I02251,Glass Damage,R03,High
+I02252,Collision,R01,Medium
+I02253,Water Damage,R02,Low
+I02254,Theft,R05,High
+I02255,Collision,R02,High
+I02256,Theft,R01,Medium
+I02257,Collision,R01,Medium
+I02258,Fire,R02,Low
+I02259,Theft,R02,Medium
+I02260,Flood,R05,Low
+I02261,Collision,R01,Medium
+I02262,Flood,R01,Low
+I02263,Collision,R01,Medium
+I02264,Theft,R02,Low
+I02265,Theft,R04,Low
+I02266,Unknown,R01,Low
+I02267,Collision,R02,Medium
+I02268,Fire,R03,Low
+I02269,Theft,R05,Medium
+I02270,Theft,R02,Low
+I02271,Collision,R03,Medium
+I02272,Collision,R03,Low
+I02273,Collision,R03,High
+I02274,Collision,R01,Low
+I02275,Collision,R01,Low
+I02276,Collision,R01,Low
+I02277,Collision,R04,Low
+I02278,Fire,R03,Medium
+I02279,Fire,R04,Low
+I02280,Collision,R04,High
+I02281,Flood,R01,Medium
+I02282,Water Damage,R04,Low
+I02283,Collision,R05,Medium
+I02284,Water Damage,R04,Low
+I02285,Theft,R02,Low
+I02286,Collision,R02,Low
+I02287,Collision,R02,Low
+I02288,Collision,R05,Low
+I02289,Collision,R01,High
+I02290,Collision,R03,Medium
+I02291,Flood,R02,High
+I02292,Collision,R01,Low
+I02293,Collision,R02,High
+I02294,Collision,R02,Low
+I02295,Glass Damage,R01,Low
+I02296,Collision,R04,High
+I02297,Collision,R01,Unknown
+I02298,Collision,R02,Medium
+I02299,Theft,R02,High
+I02300,Flood,R01,Medium
+I02301,Water Damage,R03,Medium
+I02302,Theft,R01,Low
+I02303,Collision,R01,Low
+I02304,Collision,R05,High
+I02305,Theft,R01,Low
+I02306,Collision,R04,Low
+I02307,Water Damage,R01,Low
+I02308,Collision,R01,High
+I02309,Water Damage,R01,Medium
+I02310,Water Damage,R05,Medium
+I02311,Collision,R01,High
+I02312,Collision,R03,Low
+I02313,Glass Damage,R03,High
+I02314,Collision,R01,Low
+I02315,Collision,R03,Low
+I02316,Flood,R01,Low
+I02317,Water Damage,R05,High
+I02318,Glass Damage,R01,High
+I02319,Theft,R03,Medium
+I02320,Glass Damage,R05,Low
+I02321,Glass Damage,R03,Low
+I02322,Collision,R04,Medium
+I02323,Flood,R03,Low
+I02324,Glass Damage,R04,Low
+I02325,Flood,R02,Medium
+I02326,Water Damage,R04,Medium
+I02327,Collision,R05,High
+I02328,Theft,R02,Medium
+I02329,Flood,R03,Low
+I02330,Theft,R01,Medium
+I02331,Fire,R02,Low
+I02332,Fire,R01,Medium
+I02333,Theft,R02,Medium
+I02334,Collision,R03,Low
+I02335,Collision,R01,Low
+I02336,Fire,R03,High
+I02337,Collision,R01,Medium
+I02338,Theft,R02,Medium
+I02339,Collision,R05,Medium
+I02340,Water Damage,R01,Medium
+I02341,Collision,R02,Low
+I02342,Collision,R04,High
+I02343,Collision,R04,High
+I02344,Glass Damage,R03,Low
+I02345,Collision,R02,Low
+I02346,Theft,R04,Medium
+I02347,Collision,R02,Medium
+I02348,Theft,R05,Low
+I02349,Collision,R01,Medium
+I02350,Collision,R03,Medium
+I02351,Collision,R01,Medium
+I02352,Collision,R02,Low
+I02353,Collision,R04,Low
+I02354,Collision,R05,Medium
+I02355,Collision,R02,High
+I02356,Flood,R01,Medium
+I02357,Fire,R04,Low
+I02358,Water Damage,R03,High
+I02359,Collision,R03,Low
+I02360,Fire,R01,Medium
+I02361,Collision,R01,Low
+I02362,Collision,R03,Medium
+I02363,Collision,R05,Medium
+I02364,Collision,R05,Medium
+I02365,Water Damage,R01,Low
+I02366,Fire,R04,Medium
+I02367,Fire,R03,Low
+I02368,Water Damage,R03,High
+I02369,Theft,R02,Low
+I02370,Collision,R05,Medium
+I02371,Collision,R04,Medium
+I02372,Collision,R05,Low
+I02373,Theft,R01,Low
+I02374,Collision,R02,Low
+I02375,Collision,R01,Medium
+I02376,Collision,R02,High
+I02377,Collision,R01,Medium
+I02378,Theft,R01,High
+I02379,Collision,R02,Low
+I02380,Collision,R05,Low
+I02381,Glass Damage,R01,Unknown
+I02382,Glass Damage,R03,High
+I02383,Collision,R01,Low
+I02384,Water Damage,R02,Medium
+I02385,Fire,R01,High
+I02386,Flood,R02,Medium
+I02387,Flood,R02,Medium
+I02388,Water Damage,R02,Low
+I02389,Collision,R04,Low
+I02390,Collision,R01,Medium
+I02391,Collision,R01,Medium
+I02392,Collision,R02,Low
+I02393,Glass Damage,R01,Low
+I02394,Fire,R03,Low
+I02395,Water Damage,R02,Medium
+I02396,Glass Damage,R02,Low
+I02397,Flood,R03,Low
+I02398,Theft,R01,Low
+I02399,Theft,R03,High
+I02400,Water Damage,R01,Medium
+I02401,Theft,R01,Low
+I02402,Collision,R04,Medium
+I02403,Collision,R03,Medium
+I02404,Collision,R05,Medium
+I02405,Collision,R02,Medium
+I02406,Fire,R02,Medium
+I02407,Collision,R03,Medium
+I02408,Fire,R02,Low
+I02409,Collision,R01,Low
+I02410,Collision,R02,Low
+I02411,Fire,R02,Medium
+I02412,Collision,R02,Medium
+I02413,Water Damage,R01,Medium
+I02414,Collision,R01,Low
+I02415,Glass Damage,R01,Medium
+I02416,Collision,R03,Low
+I02417,Collision,R01,Low
+I02418,Flood,R01,Medium
+I02419,Collision,R05,Low
+I02420,Glass Damage,R01,Low
+I02421,Water Damage,R04,Low
+I02422,Collision,R04,Medium
+I02423,Collision,R02,Low
+I02424,Theft,R03,High
+I02425,Glass Damage,R02,High
+I02426,Collision,R02,High
+I02427,Collision,R01,Unknown
+I02428,Collision,R01,Medium
+I02429,Collision,R03,Low
+I02430,Theft,R05,High
+I02431,Glass Damage,R04,Medium
+I02432,Flood,R04,Low
+I02433,Water Damage,R01,Low
+I02434,Theft,R01,High
+I02435,Collision,R01,High
+I02436,Water Damage,R02,Medium
+I02437,Glass Damage,R01,Medium
+I02438,Collision,R02,Medium
+I02439,Fire,R01,High
+I02440,Flood,R05,Medium
+I02441,Theft,R01,Low
+I02442,Flood,R04,Medium
+I02443,Glass Damage,R01,High
+I02444,Glass Damage,R04,Low
+I02445,Theft,R03,Low
+I02446,Theft,R03,Low
+I02447,Collision,R02,Medium
+I02448,Fire,R01,Medium
+I02449,Collision,R01,Low
+I02450,Flood,R03,Medium
+I02451,Water Damage,R03,Low
+I02452,Collision,R01,Unknown
+I02453,Glass Damage,R04,High
+I02454,Collision,R04,Medium
+I02455,Collision,R02,Medium
+I02456,Flood,R03,Low
+I02457,Theft,R04,High
+I02458,Flood,R01,Medium
+I02459,Theft,R02,Low
+I02460,Flood,R01,High
+I02461,Collision,R02,Low
+I02462,Collision,R05,Medium
+I02463,Collision,R01,Low
+I02464,Water Damage,R04,Medium
+I02465,Collision,R03,Low
+I02466,Collision,R05,Low
+I02467,Collision,R02,Medium
+I02468,Collision,R02,High
+I02469,Collision,R03,Low
+I02470,Theft,R02,Medium
+I02471,Glass Damage,R02,Unknown
+I02472,Collision,R02,High
+I02473,Fire,R01,Low
+I02474,Theft,R03,Medium
+I02475,Flood,R05,High
+I02476,Theft,R03,Low
+I02477,Glass Damage,R04,Medium
+I02478,Collision,R05,High
+I02479,Collision,R01,Low
+I02480,Glass Damage,R03,Low
+I02481,Collision,R01,Low
+I02482,Flood,R04,High
+I02483,Glass Damage,R03,High
+I02484,Flood,R03,Medium
+I02485,Collision,R05,Medium
+I02486,Theft,R05,Low
+I02487,Glass Damage,R03,Low
+I02488,Flood,R02,Low
+I02489,Theft,R02,Low
+I02490,Fire,R02,Low
+I02491,Fire,R02,Medium
+I02492,Flood,R01,Low
+I02493,Glass Damage,R05,Low
+I02494,Glass Damage,R02,Low
+I02495,Collision,R02,Low
+I02496,Collision,R01,Low
+I02497,Theft,R05,Low
+I02498,Glass Damage,R05,Low
+I02499,Theft,R02,Medium
+I02500,Theft,R04,Medium
+I02501,Fire,R02,High
+I02502,Glass Damage,R03,Medium
+I02503,Fire,R01,Medium
+I02504,Collision,R01,High
+I02505,Collision,R05,Medium
+I02506,Glass Damage,R03,Medium
+I02507,Glass Damage,R01,Medium
+I02508,Fire,R03,Low
+I02509,Collision,R03,Low
+I02510,Collision,R01,Low
+I02511,Collision,R04,Medium
+I02512,Collision,R01,Low
+I02513,Glass Damage,R01,Medium
+I02514,Collision,R01,High
+I02515,Water Damage,R03,Medium
+I02516,Collision,R04,Low
+I02517,Collision,R01,Medium
+I02518,Collision,R01,Low
+I02519,Fire,R04,High
+I02520,Theft,R03,Medium
+I02521,Collision,R01,Medium
+I02522,Collision,R04,Medium
+I02523,Collision,R04,Medium
+I02524,Collision,R01,Medium
+I02525,Glass Damage,R03,Low
+I02526,Water Damage,R05,Low
+I02527,Fire,R01,Low
+I02528,Collision,R02,Medium
+I02529,Theft,R02,High
+I02530,Collision,R01,Medium
+I02531,Collision,R02,Medium
+I02532,Flood,R01,High
+I02533,Collision,R05,Low
+I02534,Collision,R02,Low
+I02535,Water Damage,R01,High
+I02536,Flood,R04,High
+I02537,Glass Damage,R01,Medium
+I02538,Unknown,R05,Low
+I02539,Water Damage,R01,High
+I02540,Flood,R03,Medium
+I02541,Theft,R02,Medium
+I02542,Collision,R04,Low
+I02543,Flood,R02,Medium
+I02544,Water Damage,R01,High
+I02545,Collision,R02,High
+I02546,Collision,R02,Medium
+I02547,Collision,R05,Medium
+I02548,Flood,R03,Medium
+I02549,Glass Damage,R02,Medium
+I02550,Unknown,R02,Medium
+I02551,Collision,R01,Low
+I02552,Theft,R04,Low
+I02553,Collision,R01,Medium
+I02554,Fire,R03,Low
+I02555,Collision,R03,Low
+I02556,Collision,R01,High
+I02557,Theft,R02,Medium
+I02558,Collision,R01,Low
+I02559,Collision,R02,Low
+I02560,Water Damage,R03,Medium
+I02561,Collision,R02,Medium
+I02562,Collision,R03,Medium
+I02563,Collision,R02,Medium
+I02564,Theft,R01,Low
+I02565,Theft,R02,Medium
+I02566,Collision,R01,Low
+I02567,Collision,R04,Medium
+I02568,Theft,R01,Low
+I02569,Theft,R02,Low
+I02570,Glass Damage,R03,Low
+I02571,Collision,R02,High
+I02572,Collision,R01,Low
+I02573,Collision,R02,Low
+I02574,Flood,R02,Low
+I02575,Fire,R04,Medium
+I02576,Fire,R02,Medium
+I02577,Collision,R02,High
+I02578,Glass Damage,R01,Medium
+I02579,Collision,R04,Medium
+I02580,Theft,R03,Medium
+I02581,Fire,R04,Low
+I02582,Collision,R01,High
+I02583,Collision,R03,High
+I02584,Glass Damage,R05,Low
+I02585,Theft,R02,Medium
+I02586,Collision,R04,Low
+I02587,Theft,R01,Medium
+I02588,Flood,R02,Unknown
+I02589,Unknown,R02,High
+I02590,Flood,R03,Low
+I02591,Theft,R02,Medium
+I02592,Fire,R01,Medium
+I02593,Collision,R02,Low
+I02594,Glass Damage,R03,Medium
+I02595,Theft,R01,Medium
+I02596,Theft,R05,Medium
+I02597,Water Damage,R05,High
+I02598,Water Damage,R01,Unknown
+I02599,Fire,R01,Low
+I02600,Collision,R02,Low
+I02601,Collision,R05,Low
+I02602,Fire,R03,Medium
+I02603,Flood,R01,High
+I02604,Collision,R02,Medium
+I02605,Fire,R04,Medium
+I02606,Collision,R02,Low
+I02607,Water Damage,R01,Low
+I02608,Theft,R02,High
+I02609,Theft,R03,Medium
+I02610,Water Damage,R05,Low
+I02611,Water Damage,R02,High
+I02612,Fire,R01,Medium
+I02613,Glass Damage,R03,Low
+I02614,Collision,R02,Medium
+I02615,Water Damage,R03,Medium
+I02616,Theft,R02,Low
+I02617,Glass Damage,R01,High
+I02618,Flood,R01,Medium
+I02619,Flood,R02,Medium
+I02620,Unknown,R01,High
+I02621,Glass Damage,R04,Medium
+I02622,Collision,R04,Unknown
+I02623,Collision,R01,Low
+I02624,Collision,R01,Low
+I02625,Collision,R03,Low
+I02626,Fire,R01,Low
+I02627,Collision,R05,Medium
+I02628,Collision,R02,Low
+I02629,Glass Damage,R03,Low
+I02630,Collision,R01,Medium
+I02631,Water Damage,R02,Unknown
+I02632,Glass Damage,R01,Medium
+I02633,Theft,R03,Medium
+I02634,Flood,R02,Low
+I02635,Fire,R01,Low
+I02636,Fire,R04,Medium
+I02637,Collision,R02,Low
+I02638,Theft,R01,Medium
+I02639,Glass Damage,R02,Medium
+I02640,Fire,R01,Medium
+I02641,Flood,R03,Medium
+I02642,Collision,R04,High
+I02643,Theft,R04,Low
+I02644,Theft,R02,High
+I02645,Collision,R05,High
+I02646,Glass Damage,R04,Medium
+I02647,Theft,R01,Low
+I02648,Theft,R02,Low
+I02649,Theft,R01,High
+I02650,Theft,R03,Low
+I02651,Collision,R02,High
+I02652,Collision,R02,Medium
+I02653,Theft,R03,Medium
+I02654,Theft,R05,Medium
+I02655,Water Damage,R02,Low
+I02656,Collision,R01,Medium
+I02657,Theft,R05,High
+I02658,Unknown,R04,Low
+I02659,Collision,R01,High
+I02660,Collision,R01,High
+I02661,Collision,R05,Low
+I02662,Glass Damage,R03,Medium
+I02663,Glass Damage,R04,Low
+I02664,Flood,R02,Medium
+I02665,Collision,R03,High
+I02666,Collision,R01,High
+I02667,Theft,R03,High
+I02668,Flood,R04,Low
+I02669,Glass Damage,R03,Medium
+I02670,Collision,R03,Unknown
+I02671,Collision,R05,High
+I02672,Collision,R04,Low
+I02673,Collision,R03,Low
+I02674,Flood,R02,Low
+I02675,Theft,R05,Low
+I02676,Theft,R02,Low
+I02677,Flood,R04,Low
+I02678,Collision,R01,High
+I02679,Theft,R02,Medium
+I02680,Glass Damage,R04,Low
+I02681,Unknown,R05,Medium
+I02682,Collision,R01,Medium
+I02683,Collision,R02,Medium
+I02684,Collision,R03,Low
+I02685,Theft,R05,Medium
+I02686,Collision,R04,Low
+I02687,Fire,R02,Unknown
+I02688,Water Damage,R04,Medium
+I02689,Theft,R04,Medium
+I02690,Collision,R02,Medium
+I02691,Collision,R04,Low
+I02692,Collision,R05,Medium
+I02693,Glass Damage,R01,Medium
+I02694,Theft,R03,Low
+I02695,Fire,R03,Low
+I02696,Collision,R02,Low
+I02697,Theft,R02,Low
+I02698,Collision,R03,Low
+I02699,Collision,R01,Low
+I02700,Collision,R01,Medium
+I02701,Fire,R02,Medium
+I02702,Fire,R01,Medium
+I02703,Collision,R03,Medium
+I02704,Unknown,R04,Low
+I02705,Collision,R05,High
+I02706,Theft,R04,Medium
+I02707,Theft,R01,Medium
+I02708,Collision,R05,Low
+I02709,Water Damage,R04,Medium
+I02710,Collision,R02,Medium
+I02711,Flood,R01,Medium
+I02712,Collision,R03,Medium
+I02713,Collision,R02,High
+I02714,Glass Damage,R02,High
+I02715,Glass Damage,R03,Medium
+I02716,Collision,R04,High
+I02717,Fire,R04,High
+I02718,Collision,R03,Low
+I02719,Unknown,R04,Medium
+I02720,Glass Damage,R02,Low
+I02721,Collision,R03,Low
+I02722,Water Damage,R01,Low
+I02723,Theft,R04,Medium
+I02724,Fire,R02,Low
+I02725,Collision,R02,Low
+I02726,Flood,R05,Low
+I02727,Theft,R01,Medium
+I02728,Collision,R05,High
+I02729,Collision,R03,High
+I02730,Fire,R01,Medium
+I02731,Water Damage,R03,Low
+I02732,Collision,R02,High
+I02733,Fire,R05,Unknown
+I02734,Glass Damage,R02,High
+I02735,Water Damage,R01,Medium
+I02736,Theft,R03,Medium
+I02737,Collision,R02,Low
+I02738,Flood,R01,Low
+I02739,Water Damage,R02,Medium
+I02740,Glass Damage,R01,Medium
+I02741,Collision,R02,High
+I02742,Glass Damage,R05,Medium
+I02743,Theft,R01,Medium
+I02744,Water Damage,R01,Low
+I02745,Flood,R04,Medium
+I02746,Water Damage,R04,Low
+I02747,Water Damage,R01,Medium
+I02748,Fire,R04,Medium
+I02749,Theft,R01,High
+I02750,Fire,R01,Medium
+I02751,Flood,R02,Low
+I02752,Fire,R02,High
+I02753,Glass Damage,R04,Medium
+I02754,Water Damage,R02,Medium
+I02755,Collision,R05,Medium
+I02756,Glass Damage,R05,High
+I02757,Glass Damage,R04,Low
+I02758,Flood,R01,Medium
+I02759,Collision,R02,Medium
+I02760,Flood,R03,Low
+I02761,Collision,R03,High
+I02762,Collision,R03,Low
+I02763,Collision,R01,Low
+I02764,Glass Damage,R05,Low
+I02765,Flood,R01,High
+I02766,Theft,R01,Medium
+I02767,Fire,R03,Low
+I02768,Theft,R01,Low
+I02769,Flood,R01,Low
+I02770,Collision,R02,Low
+I02771,Collision,R04,Medium
+I02772,Flood,R03,Low
+I02773,Water Damage,R03,Low
+I02774,Collision,R04,Low
+I02775,Collision,R03,Medium
+I02776,Flood,R04,Unknown
+I02777,Theft,R01,Medium
+I02778,Collision,R03,Medium
+I02779,Collision,R03,High
+I02780,Collision,R02,Medium
+I02781,Collision,R01,High
+I02782,Theft,R02,Medium
+I02783,Flood,R05,Low
+I02784,Glass Damage,R03,High
+I02785,Glass Damage,R04,Medium
+I02786,Fire,R04,Medium
+I02787,Collision,R04,Low
+I02788,Collision,R01,Medium
+I02789,Water Damage,R02,High
+I02790,Fire,R03,Low
+I02791,Glass Damage,R03,Low
+I02792,Theft,R01,Low
+I02793,Collision,R02,Medium
+I02794,Water Damage,R03,High
+I02795,Flood,R02,Medium
+I02796,Collision,R01,High
+I02797,Unknown,R02,Medium
+I02798,Collision,R04,Low
+I02799,Collision,R04,Low
+I02800,Theft,R02,Low
+I02801,Fire,R04,Medium
+I02802,Collision,R04,Low
+I02803,Theft,R03,Low
+I02804,Glass Damage,R01,High
+I02805,Collision,R01,Medium
+I02806,Glass Damage,R02,Low
+I02807,Collision,R03,Medium
+I02808,Fire,R05,Medium
+I02809,Glass Damage,R03,High
+I02810,Collision,R01,Medium
+I02811,Fire,R03,Low
+I02812,Water Damage,R03,Low
+I02813,Fire,R04,Low
+I02814,Glass Damage,R01,Medium
+I02815,Glass Damage,R04,Medium
+I02816,Fire,R03,Medium
+I02817,Collision,R03,Medium
+I02818,Collision,R05,Low
+I02819,Fire,R04,Low
+I02820,Collision,R02,Low
+I02821,Theft,R02,Medium
+I02822,Theft,R02,Medium
+I02823,Collision,R02,High
+I02824,Collision,R05,Low
+I02825,Glass Damage,R01,Medium
+I02826,Collision,R04,Low
+I02827,Flood,R02,Medium
+I02828,Fire,R03,Low
+I02829,Collision,R03,Medium
+I02830,Collision,R02,Low
+I02831,Collision,R04,Low
+I02832,Unknown,R04,Medium
+I02833,Theft,R01,Low
+I02834,Collision,R03,Medium
+I02835,Flood,R03,Low
+I02836,Flood,R03,High
+I02837,Water Damage,R03,Low
+I02838,Theft,R02,Medium
+I02839,Fire,R03,High
+I02840,Fire,R01,Medium
+I02841,Collision,R03,Low
+I02842,Flood,R01,Medium
+I02843,Theft,R01,Low
+I02844,Collision,R03,Medium
+I02845,Unknown,R01,Medium
+I02846,Theft,R01,Unknown
+I02847,Collision,R05,High
+I02848,Flood,R03,Low
+I02849,Fire,R02,Low
+I02850,Collision,R02,Low
+I02851,Flood,R01,Medium
+I02852,Theft,R02,Low
+I02853,Collision,R04,Medium
+I02854,Theft,R04,Medium
+I02855,Collision,R01,High
+I02856,Collision,R03,Medium
+I02857,Collision,R03,Low
+I02858,Theft,R02,Low
+I02859,Flood,R01,Medium
+I02860,Fire,R03,Low
+I02861,Flood,R01,Low
+I02862,Theft,R03,Low
+I02863,Fire,R02,Medium
+I02864,Fire,R01,High
+I02865,Collision,R02,Low
+I02866,Glass Damage,R01,Low
+I02867,Theft,R05,Medium
+I02868,Glass Damage,R02,Low
+I02869,Fire,R04,High
+I02870,Collision,R03,Medium
+I02871,Collision,R03,Medium
+I02872,Theft,R04,High
+I02873,Collision,R04,Medium
+I02874,Theft,R01,Low
+I02875,Collision,R01,Medium
+I02876,Glass Damage,R01,Medium
+I02877,Fire,R01,Medium
+I02878,Collision,R03,High
+I02879,Collision,R03,Low
+I02880,Collision,R01,Medium
+I02881,Flood,R04,Low
+I02882,Collision,R02,Low
+I02883,Theft,R04,Medium
+I02884,Collision,R04,Medium
+I02885,Fire,R01,Medium
+I02886,Collision,R01,Low
+I02887,Flood,R03,Low
+I02888,Fire,R03,Medium
+I02889,Collision,R02,Medium
+I02890,Collision,R05,Medium
+I02891,Glass Damage,R04,Medium
+I02892,Collision,R02,Unknown
+I02893,Water Damage,R01,Medium
+I02894,Collision,R03,Low
+I02895,Flood,R03,Medium
+I02896,Collision,R05,Medium
+I02897,Water Damage,R05,High
+I02898,Flood,R01,Medium
+I02899,Water Damage,R01,Medium
+I02900,Theft,R04,Low
+I02901,Theft,R01,Medium
+I02902,Flood,R03,High
+I02903,Collision,R01,High
+I02904,Fire,R01,Low
+I02905,Collision,R01,Low
+I02906,Collision,R01,Unknown
+I02907,Collision,R01,Medium
+I02908,Collision,R01,High
+I02909,Theft,R01,Low
+I02910,Collision,R03,High
+I02911,Theft,R02,Medium
+I02912,Glass Damage,R01,Low
+I02913,Theft,R01,Low
+I02914,Theft,R05,Medium
+I02915,Fire,R02,Low
+I02916,Collision,R03,Medium
+I02917,Collision,R04,Medium
+I02918,Glass Damage,R01,Medium
+I02919,Theft,R01,Unknown
+I02920,Water Damage,R03,High
+I02921,Theft,R04,Medium
+I02922,Glass Damage,R01,Medium
+I02923,Collision,R03,Medium
+I02924,Collision,R01,Medium
+I02925,Theft,R02,High
+I02926,Collision,R04,Medium
+I02927,Collision,R02,Medium
+I02928,Theft,R02,Low
+I02929,Theft,R02,Low
+I02930,Collision,R03,Medium
+I02931,Water Damage,R03,Low
+I02932,Water Damage,R02,Medium
+I02933,Collision,R05,High
+I02934,Water Damage,R01,Medium
+I02935,Collision,R01,Low
+I02936,Water Damage,R01,Medium
+I02937,Glass Damage,R02,Low
+I02938,Water Damage,R02,Medium
+I02939,Collision,R02,Medium
+I02940,Collision,R03,Medium
+I02941,Flood,R05,Medium
+I02942,Collision,R03,Medium
+I02943,Collision,R02,Low
+I02944,Fire,R01,Low
+I02945,Theft,R02,Medium
+I02946,Collision,R02,High
+I02947,Theft,R05,Low
+I02948,Water Damage,R04,Low
+I02949,Fire,R01,Low
+I02950,Water Damage,R05,Medium
+I02951,Theft,R05,Low
+I02952,Collision,R01,Medium
+I02953,Collision,R02,Low
+I02954,Glass Damage,R03,Medium
+I02955,Collision,R05,Low
+I02956,Flood,R01,Medium
+I02957,Flood,R01,Low
+I02958,Theft,R04,Medium
+I02959,Collision,R01,High
+I02960,Glass Damage,R01,Low
+I02961,Collision,R05,High
+I02962,Theft,R01,Low
+I02963,Glass Damage,R01,Medium
+I02964,Collision,R01,Medium
+I02965,Glass Damage,R01,Low
+I02966,Glass Damage,R04,Medium
+I02967,Water Damage,R01,Low
+I02968,Collision,R01,Medium
+I02969,Glass Damage,R01,Medium
+I02970,Glass Damage,R01,High
+I02971,Collision,R03,Low
+I02972,Fire,R01,High
+I02973,Collision,R05,Low
+I02974,Collision,R01,Medium
+I02975,Unknown,R02,Low
+I02976,Collision,R01,Low
+I02977,Collision,R01,Low
+I02978,Collision,R05,Medium
+I02979,Collision,R02,Low
+I02980,Glass Damage,R01,Medium
+I02981,Flood,R03,High
+I02982,Collision,R01,Low
+I02983,Flood,R01,Low
+I02984,Fire,R05,Low
+I02985,Collision,R05,Low
+I02986,Glass Damage,R03,Medium
+I02987,Water Damage,R04,Medium
+I02988,Collision,R02,Low
+I02989,Collision,R01,Low
+I02990,Collision,R04,Medium
+I02991,Water Damage,R03,Low
+I02992,Collision,R02,Medium
+I02993,Theft,R02,High
+I02994,Collision,R04,Low
+I02995,Collision,R02,Medium
+I02996,Collision,R02,High
+I02997,Collision,R01,Medium
+I02998,Collision,R04,Medium
+I02999,Collision,R02,Medium
+I03000,Collision,R04,Medium
